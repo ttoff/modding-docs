@@ -5,6 +5,7 @@ Toontown Offline features the ability to add, or replace NPC toons.
 ## Important Information
 * The default NPC toons file can be found in `phase_3/data/npctoons.json`, this should NEVER be overwritten by resource packs - any changes should be made to `config/npctoons.json`. This file does not exist by default, so you will need to create one if you want to make changes.
 * Make sure you follow proper JSON formatting. An example file is provided here.
+* It is not possible to add new NPC positions, therefore zones should never go above their proper NPC count, excess NPCs in a zone will just default to xyz (0, 0, 0).
 
 ## Modifying NPC Toons
 1. Create a new file called `npctoons.json` in the config folder in your Toontown Offline installation directory
