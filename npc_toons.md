@@ -126,10 +126,9 @@ For gloves, 0 is white*
 
 ## Example
 The following example shows an NPC Toon override of Tutorial Tom and HQ Harry
-
+`npctoons.json`
 ```json
 {
-
 "20000": {
         "name": "Tutorial Tom",
         "zone_id": null,
