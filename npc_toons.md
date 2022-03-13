@@ -1,0 +1,149 @@
+# NPC Toons - Toontown Offline Modding Documentation
+
+Toontown Offline features the ability to add, or replace NPC toons.
+
+## Important Information
+* The default NPC toons file can be found in `phase_3/data/npctoons.json`, this should NEVER be overwritten by resource packs - any changes should be made to `config/npctoons.json`. This file does not exist by default, so you will need to create one if you want to make changes.
+* Make sure you follow proper JSON formatting. An example file is provided here.
+
+## Modifying NPC Toons
+1. Create a new file called `npctoons.json` in the config folder in your Toontown Offline installation directory
+2. The json file should first be formatted as following:
+```
+{
+
+}
+```
+*Inside the brackets is where you wlil add each new entry, separated by commas. Note that JSON is a very strict format, a stray comma will break the file. Do NOT include a comma after the final entry.
+3. Add entry. The format of each NPC Toon will be explained later in the document.
+The following example shows an NPC Toon override of Tutorial Tom and HQ Harry
+
+```
+{
+
+"20000": {
+        "name": "Tutorial Tom",
+        "zone_id": null,
+        "protected": 1,
+        "body": {
+            "head": "dll",
+            "torso": "ms",
+            "legs": "m",
+            "gender": "m"
+        },
+        "clothes": {
+            "shirt": 2,
+            "sleeves": 2,
+            "bottoms": 2
+        },
+        "colors": {
+            "head": 7,
+            "torso": 7,
+            "gloves": 0,
+            "legs": 7,
+            "shirt": 6,
+            "sleeves": 6,
+            "bottoms": 16
+        },
+        "accessories": {
+            "hat": [0,0,0],
+            "glasses": [0,0,0],
+            "backpack": [0,0,0],
+            "shoes": [0,0,0]
+        },
+        "type": "NPC_REGULAR"
+    },
+    "20002": {
+        "name": "HQ Harry",
+        "zone_id": null,
+        "protected": 1,
+        "body": {
+            "head": "dls",
+            "torso": "ms",
+            "legs": "m",
+            "gender": "m"
+        },
+        "clothes": {
+            "shirt": 0,
+            "sleeves": 0,
+            "bottoms": 0
+        },
+        "colors": {
+            "head": 6,
+            "torso": 6,
+            "gloves": 0,
+            "legs": 6,
+            "shirt": 10,
+            "sleeves": 10,
+            "bottoms": 9
+        },
+        "accessories": {
+            "hat": [0,0,0],
+            "glasses": [0,0,0],
+            "backpack": [0,0,0],
+            "shoes": [0,0,0]
+        },
+        "type": "NPC_HQ"
+    }
+}
+```
+
+`npctoons.json` is a dictionary of `Toon` elements, identified by their NPC ID
+
+## Toon data type
+
+| Field | Type | Description | Example |
+|---|---|---|---|
+|name|string|The Toon's Name|"Flippy"|
+|zone_id|int or null|The zone ID in which the Toon resides. A Toon can be set to not appear in a zone if you set to null|2007|
+|protected|boolean|Protected buildings will not be taken over by Cogs|false (or 0)|
+|body|`Body` (see below)|Defines the Toon's head, body, legs, and gender|See Below|
+|clothes|`Clothes` (see below)|Defines the Toon's clothing textures|See Below|
+|colors|`Colors` (See below)|Defines the Toon's body and clothing colors|See Below|
+|accessories|`Accessories` (See below)|Define's the Toon's accessories|See Below|
+|type|string (see below for valid options)|Define's the Toon's type - Control's its function in game|"NPC_HQ"|
+
+### Example:
+```
+"20002": {
+        "name": "HQ Harry",
+        "zone_id": null,
+        "protected": 1,
+        "body": {...},
+        "clothes": {...},
+        "colors": {...},
+        "accessories": {...},
+        "type": "NPC_HQ"
+    }
+```
+
+## Body data type
+| Field | Type | Description | Example |
+|---|---|---|---|
+|head|string|Toon's species, head, and muzzle sizes|"dls"|
+|torso|string|Toon's torso (Also controls whether wearing a skirt or shorts)|"ms"|
+|legs|string|Toon's legs|"l"|
+|gender|string ("m" or "f")|Controls whether the toon is a male or female|"f"|
+
+## Clothing data type
+| Field | Type | Description | Example |
+|---|---|---|---|
+|shirt|int|Shirt texture ID|5|
+|sleeves|int|Sleeves texture ID|4|
+|bottoms|int|Bottoms texture ID|9|
+
+## Colors data type
+*Hint: For clothing, 27 is white, or the default color of the texture - No tint
+For gloves, 0 is white*
+| Field | Type | Description | Example |
+|---|---|---|---|
+|head|int|Head color ID|8|
+|torso|int|Torso color ID|8|
+|gloves|int|Glove color ID|0|
+|legs|int|Leg color ID|12|
+|shirt|int|Shirt color ID|27|
+|sleeves|int|Sleeves color ID|27|
+|bottoms|int|Bottoms color ID|19|
+
+## Accessories
+
