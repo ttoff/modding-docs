@@ -31,4 +31,9 @@
 |building-helpers|document this|true|
 |outskirts-theme|Determines which neighborhood the Toontown Outskirts should be themed like|tt|
 |race-game-easter-egg|document this|true|
-|racing-pro-racer|Toggles the unused "Pro Racer" mode for Goofy's Speedway racing.|false
+|racing-pro-racer|Toggles the unused "Pro Racer" mode for Goofy's Speedway racing.|false|
+|send-extra-data|Enables sending of some unique but unnecessary data, such as the wheel rotation in racing, or the head rotation when in the a Kart in first-person. It may be optimal to disable on populated servers running on low end hardware, but currently this has a negligable effect.|true|
+|server-timezone|Sets the timezone the server is set to. This will also set the in-game "Toontown Time".|US/Pacific|
+|safezone-activities|Toggles certain activities that are unique to each playground, currently only includes the Toon statues in Toontown Central.|false|
+|cog-count-multiplier|Multiplies the amount of cogs that will spawn in each area.|1.0|
+|classic-animated-prop-faceoff|When this is enabled, the camera will spend more time looking at an animated street prop at the beginning of a battle, disabling this will shorten the time|false|
