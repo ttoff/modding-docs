@@ -11,7 +11,7 @@
 |district-name|The name of the Mini-Server|Toon Valley|
 |district-description|The description of the Mini-Server|A Toontown Offline Mini-Server|
 |district-limit|Maximum players allowed on a Mini-Server at once. Maximum 16|16
-|district-public|Determines whether your Mini-Server will appear on the [public Mini-Server list](https://toontownoffline.net/servers "Toontown Offline Mini-Server List")|
+|district-public|Determines whether your Mini-Server will appear on the [public Mini-Server list](https://toontownoffline.net/servers "Toontown Offline Mini-Server List")|false|
 |district-public-port|This is currently unused, redefining will have no effect|7198|
 |district-icon-url|Specifies the URL where the Mini-Server icon can be found|https://toontownoffline.net/images/offline-icon.png|
 |magic-word-logging|If enabled, all magic words ran will be logged to the logs folder|false|
@@ -30,7 +30,7 @@
 |jukebox|Toggles whether a jukebox should be spawned in Toontown Central and the Toontown Outskirts|false|
 |building-helpers|document this|true|
 |outskirts-theme|Determines which neighborhood the Toontown Outskirts should be themed like|tt|
-|race-game-easter-egg|document this|true|
+|race-game-easter-egg|Toggles an easter egg that can occur when playing the Race trolley game|true|
 |racing-pro-racer|Toggles the unused "Pro Racer" mode for Goofy's Speedway racing.|false|
 |send-extra-data|Enables sending of some unique but unnecessary data, such as the wheel rotation in racing, or the head rotation when in the a Kart in first-person. It may be optimal to disable on populated servers running on low end hardware, but currently this has a negligable effect.|true|
 |server-timezone|Sets the timezone the server is set to. This will also set the in-game "Toontown Time".|US/Pacific|
