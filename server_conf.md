@@ -1,3 +1,5 @@
+This document documents all of the available options in [Toontown Offline's][ttoff] server.json file.
+
 |option|description|default|
 |--|--|--|
 |server-password|When a password is specified, users will be required to enter this password to connect||
@@ -11,7 +13,7 @@
 |district-name|The name of the Mini-Server|Toon Valley|
 |district-description|The description of the Mini-Server|A Toontown Offline Mini-Server|
 |district-limit|Maximum players allowed on a Mini-Server at once. Maximum 16|16
-|district-public|Determines whether your Mini-Server will appear on the [public Mini-Server list](https://toontownoffline.net/servers "Toontown Offline Mini-Server List")|false|
+|district-public|Determines whether your Mini-Server will appear on the [public Mini-Server list][mslist]|false|
 |district-public-port|This is currently unused, redefining will have no effect|7198|
 |district-icon-url|Specifies the URL where the Mini-Server icon can be found|https://toontownoffline.net/images/offline-icon.png|
 |magic-word-logging|If enabled, all magic words ran will be logged to the logs folder|false|
@@ -37,3 +39,6 @@
 |safezone-activities|Toggles certain activities that are unique to each playground, currently only includes the Toon statues in Toontown Central.|false|
 |cog-count-multiplier|Multiplies the amount of cogs that will spawn in each area.|1.0|
 |classic-animated-prop-faceoff|When this is enabled, the camera will spend more time looking at an animated street prop at the beginning of a battle, disabling this will shorten the time|false|
+
+[mslist]: https://toontownoffline.net/servers
+[ttoff]: https://toontownoffline.net/
