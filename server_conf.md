@@ -39,6 +39,7 @@ This document documents all of the available options in [Toontown Offline's][tto
 |safezone-activities|Toggles certain activities that are unique to each playground, currently only includes the Toon statues in Toontown Central.|false|
 |cog-count-multiplier|Multiplies the amount of cogs that will spawn in each area.|1.0|
 |classic-animated-prop-faceoff|When this is enabled, the camera will spend more time looking at an animated street prop at the beginning of a battle, disabling this will shorten the time|false|
+|playground-passive-healing-amount|Controls how much Laff is given through passive regeneration while in a playground|1|
 
 [mslist]: https://toontownoffline.net/servers
 [ttoff]: https://toontownoffline.net/
