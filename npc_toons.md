@@ -27,7 +27,7 @@ Toontown Offline features the ability to add, or replace NPC toons.
 |name|string|The Toon's Name|"Flippy"|
 |zone_id|int or null|The zone ID in which the Toon resides. A Toon can be set to not appear in a zone if you set to null|2007|
 |protected|boolean|Protected buildings will not be taken over by Cogs|false (or 0)|
-|body|[`Body`](#body-data-type) (see below)|Defines the Toon's head, body, legs, and gender|See Below|
+|body|[`Body`](#body-data-type)|Defines the Toon's head, body, legs, and gender|See Below|
 |clothes|[`Clothes`](#clothing-data-type)|Defines the Toon's clothing textures|See Below|
 |colors|[`Colors`](#color-data-type)|Defines the Toon's body and clothing colors|See Below|
 |accessories|[`Accessories`](#accessories)|Define's the Toon's accessories|See Below|
