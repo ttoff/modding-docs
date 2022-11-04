@@ -1,4 +1,4 @@
-This document documents all of the available options in [Toontown Offline's][ttoff] server.json file.
+This document documents all of the available options in [Toontown Realms'][ttoff] server.json file.
 
 |option|description|default|
 |--|--|--|
@@ -11,11 +11,11 @@ This document documents all of the available options in [Toontown Offline's][tto
 |chat-whitelist-mode|Determines which whitelists to use. 0 = Toontown Offline Whitelist Only, 1 = Custom Whitelist only, 2 = Both|0|
 |ban-manager|Toggle which ban methods are enabled. Use 1 to enable, 0 to disable. The modes are as follows: [HWID, UUID, IP]|[1,1,0]|
 |district-name|The name of the Mini-Server|Toon Valley|
-|district-description|The description of the Mini-Server|A Toontown Offline Mini-Server|
+|district-description|The description of the Mini-Server|A Toontown Realm|
 |district-limit|Maximum players allowed on a Mini-Server at once. Maximum 16|16
-|district-public|Determines whether your Mini-Server will appear on the [public Mini-Server list][mslist]|false|
+|district-public|Determines whether your Realm will appear on the [public Realm list][mslist]|false|
 |district-public-port|This is currently unused, redefining will have no effect|7198|
-|district-icon-url|Specifies the URL where the Mini-Server icon can be found|https://toontownoffline.net/images/offline-icon.png|
+|district-icon-url|Specifies the URL where the Realm icon can be found|https://toontownrealms.com/images/offline-icon.png|
 |magic-word-logging|If enabled, all magic words ran will be logged to the logs folder|false|
 |legit-mode|Toggles playing in Legit mode - this will disable many cheats and creative features|false|
 |nerfs-mode|Nerfs many aspects of the gameplay to better suit a solo experience|false|
@@ -40,6 +40,11 @@ This document documents all of the available options in [Toontown Offline's][tto
 |cog-count-multiplier|Multiplies the amount of cogs that will spawn in each area.|1.0|
 |classic-animated-prop-faceoff|When this is enabled, the camera will spend more time looking at an animated street prop at the beginning of a battle, disabling this will shorten the time|false|
 |playground-passive-healing-amount|Controls how much Laff is given through passive regeneration while in a playground|1|
+|level-reserve-cogs|document this|false|
+|self-toon-up|Allows Toons to heal themselves with Toon-Up. This is useful for solo play.|true|
+|access-level-endpoint|If a url is specified, a GET request will be sent to the url to determine the access level of an account upon login. For locally stored access levels in the astron database, set it to localdb|localdb|
+|reports-endpoint|If a url is specified, a POST request will be sent to the url with the details of a report upon submission. For locally stored .json reports in `logs/moderation/reports`, set to local|local|
+|reports-endpoint-auth-header|If not null, attach this header to report POST requests if required by your API endpoint (recommended)|null
 
-[mslist]: https://toontownoffline.net/servers
-[ttoff]: https://toontownoffline.net/
+[mslist]: https://toontownrealms.com/servers
+[ttoff]: https://toontownrealms.com/
