@@ -8,7 +8,7 @@ Your POST api endpoint must accept the following fields
 |reporterId|unsigned long|The ToonID of the user who sent the report|
 |reporterName|string|The Toon name of the user who sent the report|
 |timestamp|string|The time the report was sent|
-|category|string|The report category - The categories are defined below|
+|category|string|The [report category](#report-categories)|
 |reportDescription|string|A description written by the reporter to add detail to the report|
 |reportedId|unsigned long|The ToonID of the user who is being reported|
 |reporterName|string|The Toon name of the user who is being reported
