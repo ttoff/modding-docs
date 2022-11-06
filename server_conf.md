@@ -30,7 +30,7 @@ This document documents all of the available options in [Toontown Realms'][ttoff
 |easter-eggs|Toggles whether certain easter eggs should be enabled|true|
 |disney-characters|Toggles whether Disney characters should walk around playgrounds|true|
 |jukebox|Toggles whether a jukebox should be spawned in Toontown Central and the Toontown Outskirts|false|
-|building-helpers|document this|true|
+|building-helpers|Toggles whether Toons can use the "Help!" speedchat phrase to rescue a building from the Cogs|true|
 |outskirts-theme|Determines which neighborhood the Toontown Outskirts should be themed like|tt|
 |race-game-easter-egg|Toggles an easter egg that can occur when playing the Race trolley game|true|
 |racing-pro-racer|Toggles the unused "Pro Racer" mode for Goofy's Speedway racing.|false|
@@ -40,7 +40,7 @@ This document documents all of the available options in [Toontown Realms'][ttoff
 |cog-count-multiplier|Multiplies the amount of cogs that will spawn in each area.|1.0|
 |classic-animated-prop-faceoff|When this is enabled, the camera will spend more time looking at an animated street prop at the beginning of a battle, disabling this will shorten the time|false|
 |playground-passive-healing-amount|Controls how much Laff is given through passive regeneration while in a playground|1|
-|level-reserve-cogs|document this|false|
+|level-reserve-cogs|Toggles reserve Cogs in facilities|false|
 |self-toon-up|Allows Toons to heal themselves with Toon-Up. This is useful for solo play.|true|
 |access-level-endpoint|If a url is specified, a GET request will be sent to the url to determine the access level of an account upon login. For locally stored access levels in the astron database, set it to localdb|localdb|
 |reports-endpoint|If a url is specified, a POST request will be sent to the url with the details of a report upon submission. For locally stored .json reports in `logs/moderation/reports`, set to local|local|
