@@ -1,7 +1,5 @@
 #__name__ = 'toontown.toonbase.TTLocalizer'
 #__package__ = 'toontown.toonbase'
-#__file__ = 'S:\\Development\\TTOffline\\toontown\\toonbase\\TTLocalizer.py'
-#__cached__ = 'S:\\Development\\TTOffline\\toontown\\toonbase\\__pycache__\\TTLocalizer.cpython-36.pyc'
 #END_PUBLISH = '__end_publish'
 #ENDPUBLISH = '__end_publish'
 #TINYXML_INCLUDED = ''
