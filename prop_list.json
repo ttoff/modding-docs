@@ -50,7 +50,9 @@
     },
     "Globe": {
         "model_path": "phase_13/models/parties/tt_m_ara_pty_gagGlobe_model",
-        "hide_nodes": "collisionMesh"
+        "hide_nodes": [
+            "collisionMesh"
+        ]
     },
     "Botcam": {
         "model_path": "phase_9/models/char/BotCam-zero"
@@ -3155,7 +3157,9 @@
     },
     "Wooden Pool": {
         "model_path": "phase_14.5/models/char/ttoff_m_ene_head_duckTub",
-        "hide_nodes": "*duck_heads_1000:muzzle_long"
+        "hide_nodes": [
+            "*duck_heads_1000:muzzle_long"
+        ]
     },
     "Hot Tub": {
         "model_path": "phase_5.5/models/estate/ttoff_m_prp_int_hottub"
