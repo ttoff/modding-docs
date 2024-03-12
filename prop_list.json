@@ -1,0 +1,3175 @@
+{
+    "Cube": {
+        "model_path": "phase_3.5/models/props/cube"
+    },
+    "Primitive Cone": {
+        "model_path": "phase_14.5/models/props/prop-primitive-cone"
+    },
+    "Primitive Cylinder": {
+        "model_path": "phase_14.5/models/props/prop-primitive-cylinder"
+    },
+    "Primitive Sphere": {
+        "model_path": "phase_14.5/models/props/prop-primitive-sphere"
+    },
+    "Primitive Ring": {
+        "model_path": "phase_14.5/models/props/ttrm_m_prp_primitiveRing"
+    },
+    "Brick": {
+        "model_path": "phase_6/models/golf/golf_blocker"
+    },
+    "Trolley": {
+        "model_path": "phase_14.5/models/props/trolley-station",
+        "scale_multiplier": 0.35
+    },
+    "Festive Trolley": {
+        "model_path": "phase_14.5/models/props/trolley-festive",
+        "scale_multiplier": 0.35
+    },
+    "Trolley Bed": {
+        "model_path": "phase_5.5/models/estate/trolley_bed",
+        "scale_multiplier": 0.5
+    },
+    "Clipboard": {
+        "model_path": "phase_4/models/props/tt_m_prp_acs_clipboard"
+    },
+    "Silly Reader": {
+        "model_path": "phase_4/models/props/tt_m_prp_acs_sillyReader"
+    },
+    "Bucket of Fried Chicken": {
+        "model_path": "phase_14.5/models/props/ttrm_m_prp_friedChickenBucket"
+    },
+    "Silly Meter": {
+        "model_path": "phase_4/models/props/tt_a_ara_ttc_sillyMeter_default",
+        "scale_multiplier": 0.25
+    },
+    "Periscope": {
+        "model_path": "phase_3.5/models/props/HQ_periscope-base-mod"
+    },
+    "Rocket": {
+        "model_path": "phase_13/models/parties/rocket_model"
+    },
+    "Globe": {
+        "model_path": "phase_13/models/parties/tt_m_ara_pty_gagGlobe_model",
+        "hide_nodes": "collisionMesh"
+    },
+    "Botcam": {
+        "model_path": "phase_9/models/char/BotCam-zero"
+    },
+    "Foot": {
+        "model_path": "phase_9/models/char/BotFoot-zero"
+    },
+    "Surlee": {
+        "model_path": "phase_3.5/models/modules/tt_m_ara_int_scientistMonkeyFlat",
+        "scale_multiplier": 0.75
+    },
+    "Dimm": {
+        "model_path": "phase_3.5/models/modules/tt_m_ara_int_scientistDuckFlat",
+        "scale_multiplier": 0.75
+    },
+    "Prepostera": {
+        "model_path": "phase_3.5/models/modules/tt_m_ara_int_scientistHorseFlat",
+        "scale_multiplier": 0.75
+    },
+    "Flat Silly Meter": {
+        "model_path": "phase_3.5/models/modules/tt_m_ara_int_sillyMeterFlat",
+        "scale_multiplier": 0.25
+    },
+    "Smash Ball": {
+        "model_path": "phase_14.5/models/props/smash-ball",
+        "scale_multiplier": 5.0
+    },
+    "Street Straight 20x40": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_20x40"
+    },
+    "Street Straight 40x40": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_40x40"
+    },
+    "Street Curved Corner": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_curved_corner"
+    },
+    "Street Sharp Corner": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_full_corner"
+    },
+    "Street Tight Corner": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_tight_corner"
+    },
+    "Street T Intersection": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_t_intersection"
+    },
+    "Street 4-Way Intersection": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_4way_intersection"
+    },
+    "Street Incline": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_incline_40x40x5"
+    },
+    "Street Small Square Courtyard": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_square_courtyard"
+    },
+    "Street Inner Corner": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_inner_corner"
+    },
+    "Street Square Courtyard Piece": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_courtyard_70"
+    },
+    "Street Square Courtyard Exit": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_courtyard_70_exit"
+    },
+    "Street Octagon Courtyard Piece": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_courtyard_90"
+    },
+    "Street Octagon Courtyard Exit": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_courtyard_90_exit"
+    },
+    "Street Divided Transition": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_divided_transition"
+    },
+    "Street Divided 40x70": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_divided_40x70"
+    },
+    "Sidewalk 10x10": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_sidewalk_10x10"
+    },
+    "Sidewalk 10x20": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_sidewalk_10x20"
+    },
+    "Sidewalk 10x40": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_sidewalk_10x40"
+    },
+    "Sidewalk 20x20": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_sidewalk_20x20"
+    },
+    "Sidewalk 40x40": {
+        "model_path": "phase_3.5/models/modules/street_modules",
+        "sub_node": "street_sidewalk_40x40"
+    },
+    "Curb Pile": {
+        "model_path": "phase_14.5/models/props/ttoff_m_ara_ext_oskrt_curbMess"
+    },
+    "Functional Curved Door": {
+        "model_path": "phase_3.5/models/modules/doors_practical",
+        "sub_node": "door_double_curved_ur"
+    },
+    "Functional Round Door": {
+        "model_path": "phase_3.5/models/modules/doors_practical",
+        "sub_node": "door_double_round_ur"
+    },
+    "Functional Windowed Door": {
+        "model_path": "phase_3.5/models/modules/doors_practical",
+        "sub_node": "door_double_clothshop"
+    },
+    "Functional Square Door (L)": {
+        "model_path": "phase_3.5/models/modules/doors_practical",
+        "sub_node": "door_double_square_ul"
+    },
+    "Functional Square Door (R)": {
+        "model_path": "phase_3.5/models/modules/doors_practical",
+        "sub_node": "door_double_square_ur"
+    },
+    "Functional Fancy Door": {
+        "model_path": "phase_3.5/models/modules/doors_practical",
+        "sub_node": "door_double_pillars_ur"
+    },
+    "Functional Wooden Door": {
+        "model_path": "phase_6/models/modules/DD_doors_practical",
+        "sub_node": "door_double_wood_ur"
+    },
+    "Decorative Curved Door": {
+        "model_path": "phase_3.5/models/modules/doors_practical",
+        "sub_node": "door_double_curved_ur",
+        "hide_nodes": [
+            "*_hole_left",
+            "*_hole_right"
+        ]
+    },
+    "Decorative Round Door": {
+        "model_path": "phase_3.5/models/modules/doors_practical",
+        "sub_node": "door_double_round_ur",
+        "hide_nodes": [
+            "*_hole_left",
+            "*_hole_right"
+        ]
+    },
+    "Decorative Windowed Door": {
+        "model_path": "phase_3.5/models/modules/doors_practical",
+        "sub_node": "door_double_clothshop",
+        "hide_nodes": [
+            "*_hole_left",
+            "*_hole_right"
+        ]
+    },
+    "Decorative Square Door (L)": {
+        "model_path": "phase_3.5/models/modules/doors_practical",
+        "sub_node": "door_double_square_ul",
+        "hide_nodes": [
+            "*_hole_left",
+            "*_hole_right"
+        ]
+    },
+    "Decorative Square Door (R)": {
+        "model_path": "phase_3.5/models/modules/doors_practical",
+        "sub_node": "door_double_square_ur",
+        "hide_nodes": [
+            "*_hole_left",
+            "*_hole_right"
+        ]
+    },
+    "Decorative Fancy Door": {
+        "model_path": "phase_3.5/models/modules/doors_practical",
+        "sub_node": "door_double_pillars_ur",
+        "hide_nodes": [
+            "*_hole_left",
+            "*_hole_right"
+        ]
+    },
+    "Decorative Wooden Door": {
+        "model_path": "phase_6/models/modules/DD_doors_practical",
+        "sub_node": "door_double_wood_ur",
+        "hide_nodes": [
+            "*_hole_left",
+            "*_hole_right"
+        ]
+    },
+    "Garage Door": {
+        "model_path": "phase_4/models/modules/doors",
+        "sub_node": "door_garage_ur"
+    },
+    "Single Round Door": {
+        "model_path": "phase_4/models/modules/doors",
+        "sub_node": "door_single_round_ur"
+    },
+    "Shuttered Door": {
+        "model_path": "phase_4/models/modules/doors",
+        "sub_node": "door_single_shuttered_ur"
+    },
+    "Square Single Door": {
+        "model_path": "phase_4/models/modules/doors",
+        "sub_node": "door_single_square_ur"
+    },
+    "Cog Building Door": {
+        "model_path": "phase_5/models/modules/suit_door"
+    },
+    "Window 1": {
+        "model_path": "phase_3.5/models/modules/windows",
+        "sub_node": "window_md_curtains_ur"
+    },
+    "Window 2": {
+        "model_path": "phase_3.5/models/modules/windows",
+        "sub_node": "window_md_curved_ur"
+    },
+    "Window 3": {
+        "model_path": "phase_3.5/models/modules/windows",
+        "sub_node": "window_porthole_ur"
+    },
+    "Window 4": {
+        "model_path": "phase_3.5/models/modules/windows",
+        "sub_node": "window_sm_square_ur"
+    },
+    "Window 5": {
+        "model_path": "phase_3.5/models/modules/windows",
+        "sub_node": "window_sm_shuttered_ur"
+    },
+    "Window 6": {
+        "model_path": "phase_3.5/models/modules/windows",
+        "sub_node": "window_sm_pointed_ur"
+    },
+    "Window 7": {
+        "model_path": "phase_3.5/models/modules/windows",
+        "sub_node": "window_sm_curved_ur"
+    },
+    "Window 8": {
+        "model_path": "phase_3.5/models/modules/windows",
+        "sub_node": "window_sm_round_ur"
+    },
+    "3D Wood Fence": {
+        "model_path": "phase_5.5/models/estate/terrain_fence"
+    },
+    "Wood Fence": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_fence_wood_ur",
+        "scale_multiplier": 10
+    },
+    "Flowered Wood Fence": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_woodflower_fence_ur",
+        "scale_multiplier": 10
+    },
+    "Stone Fence": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_stone_fence_ur",
+        "scale_multiplier": 10
+    },
+    "Blank Wall": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_md_blank_ur",
+        "scale_multiplier": 10
+    },
+    "Wall 1": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_lg_brick_ur",
+        "scale_multiplier": 10
+    },
+    "Wall 2": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_lg_rock_ur",
+        "scale_multiplier": 10
+    },
+    "Wall 3": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_md_board_ur",
+        "scale_multiplier": 10
+    },
+    "Wall 4": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_md_bricks_ur",
+        "scale_multiplier": 10
+    },
+    "Wall 5": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_md_dental_ur",
+        "scale_multiplier": 10
+    },
+    "Wall 6": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_md_pillars_ur",
+        "scale_multiplier": 10
+    },
+    "Wall 7": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_sm_brick_ur",
+        "scale_multiplier": 10
+    },
+    "Wall 8": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_sm_brick_pink_ur",
+        "scale_multiplier": 10
+    },
+    "Wall 9": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_sm_brick_blue_ur",
+        "scale_multiplier": 10
+    },
+    "Wall 10": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_sm_cement_ur",
+        "scale_multiplier": 10
+    },
+    "Wall 11": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_sm_cement_blue_ur",
+        "scale_multiplier": 10
+    },
+    "Wall 12": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_sm_wood_ur",
+        "scale_multiplier": 10
+    },
+    "Wall 13": {
+        "model_path": "phase_3.5/models/modules/walls",
+        "sub_node": "wall_bricks_ur",
+        "scale_multiplier": 10
+    },
+    "Cog Wall 1": {
+        "model_path": "phase_5/models/modules/suit_walls",
+        "sub_node": "wall_suit_build1_ur",
+        "scale_multiplier": 10
+    },
+    "Cog Wall 2": {
+        "model_path": "phase_5/models/modules/suit_walls",
+        "sub_node": "wall_suit_build2_ur",
+        "scale_multiplier": 10
+    },
+    "Cog Wall 3": {
+        "model_path": "phase_5/models/modules/suit_walls",
+        "sub_node": "wall_suit_build3_ur",
+        "scale_multiplier": 10
+    },
+    "Cog Wall 4": {
+        "model_path": "phase_5/models/modules/suit_walls",
+        "sub_node": "wall_suit_build4_ur",
+        "scale_multiplier": 10
+    },
+    "Cog Wall 5": {
+        "model_path": "phase_5/models/modules/suit_walls",
+        "sub_node": "wall_suit_build5_ur",
+        "scale_multiplier": 10
+    },
+    "Field Office Wall 1": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_cbe_walls",
+        "sub_node": "wall_cogdo_build1_ur",
+        "scale_multiplier": 10
+    },
+    "Field Office Wall 2": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_cbe_walls",
+        "sub_node": "wall_cogdo_build2_ur",
+        "scale_multiplier": 10
+    },
+    "Field Office Wall 3": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_cbe_walls",
+        "sub_node": "wall_cogdo_build3_ur",
+        "scale_multiplier": 10
+    },
+    "Field Office Wall 4": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_cbe_walls",
+        "sub_node": "wall_cogdo_build4_ur",
+        "scale_multiplier": 10
+    },
+    "TTC Building Sign 1": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "TTC_sign4"
+    },
+    "TTC Building Sign 2": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "TTC_sign2"
+    },
+    "TTC Building Sign 3": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "TTC_sign3"
+    },
+    "TTC Building Sign 4": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "TTC_sign1"
+    },
+    "DD Building Sign 1": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "DD_donald_sign"
+    },
+    "DD Building Sign 2": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "DD_sign2"
+    },
+    "DD Building Sign 3": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "DD_sign3"
+    },
+    "DG Building Sign 1": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "DG_sign1"
+    },
+    "DG Building Sign 2": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "DG_sign2"
+    },
+    "DG Building Sign 3": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "DG_sign3"
+    },
+    "MML Building Sign 1": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "MM_sign2"
+    },
+    "TB Building Sign 1": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "BR_sign1"
+    },
+    "TB Building Sign 2": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "BR_sign2"
+    },
+    "TB Building Sign 3": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "BR_sign3"
+    },
+    "Orange Tunnel Sign": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "tunnel_sign_orange"
+    },
+    "Red Tunnel Sign": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "tunnel_sign_red"
+    },
+    "Green Tunnel Sign": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "tunnel_sign_green"
+    },
+    "Blue Tunnel Sign": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "tunnel_sign_blue"
+    },
+    "Magenta Tunnel Sign": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_bldgsigns",
+        "sub_node": "tunnel_sign_magenta"
+    },
+    "Toontown Central Building 1": {
+        "model_path": "phase_3.5/models/modules/TT_A1"
+    },
+    "Toontown Central Building 1 (Raised)": {
+        "model_path": "phase_5/models/modules/TT_A1_raised"
+    },
+    "Toontown Central Building 2": {
+        "model_path": "phase_5/models/modules/TT_A2"
+    },
+    "Toontown Central Building 2 (Raised)": {
+        "model_path": "phase_5/models/modules/TT_A2_raised"
+    },
+    "Toontown Central Building 3": {
+        "model_path": "phase_5/models/modules/TT_A3"
+    },
+    "Toontown Central Building 4": {
+        "model_path": "phase_5/models/modules/TT_B1"
+    },
+    "Toontown Central Building 4 (Raised)": {
+        "model_path": "phase_5/models/modules/TT_B1_raised"
+    },
+    "Toontown Central Building 5": {
+        "model_path": "phase_5/models/modules/TT_B2"
+    },
+    "Toontown Central Building 5 (Raised)": {
+        "model_path": "phase_5/models/modules/TT_B2_raised"
+    },
+    "Toontown Central Building 6": {
+        "model_path": "phase_5/models/modules/TT_C1"
+    },
+    "Toontown Central Building 6 (Raised)": {
+        "model_path": "phase_5/models/modules/TT_C1_raised"
+    },
+    "Toontown Central Pet Shop": {
+        "model_path": "phase_4/models/modules/PetShopExterior_TT"
+    },
+    "Toontown Central Clothing Shop": {
+        "model_path": "phase_4/models/modules/clothshopTT"
+    },
+    "Toontown Central Gag Shop": {
+        "model_path": "phase_4/models/modules/gagShop_TT"
+    },
+    "Toontown Central Toon HQ": {
+        "model_path": "phase_3.5/models/modules/hqTT",
+        "hide_nodes": [
+            "*HoleLeft_0",
+            "*HoleRight_0",
+            "*HoleLeft_1",
+            "*HoleRight_1"
+        ]
+    },
+    "Toon Hall": {
+        "model_path": "phase_4/models/modules/toonhall"
+    },
+    "Library": {
+        "model_path": "phase_4/models/modules/library"
+    },
+    "School House": {
+        "model_path": "phase_4/models/modules/school_house"
+    },
+    "Bank": {
+        "model_path": "phase_4/models/modules/bank"
+    },
+    "Donald's Dock Building 1": {
+        "model_path": "phase_6/models/modules/DD_A1"
+    },
+    "Donald's Dock Building 2": {
+        "model_path": "phase_6/models/modules/DD_A2"
+    },
+    "Donald's Dock Building 3": {
+        "model_path": "phase_6/models/modules/DD_B1"
+    },
+    "Donald's Dock Building 4": {
+        "model_path": "phase_6/models/modules/DD_B2"
+    },
+    "Donald's Dock Building 5": {
+        "model_path": "phase_6/models/modules/DD_C1"
+    },
+    "Donald's Dock Building 6": {
+        "model_path": "phase_6/models/modules/DD_D1"
+    },
+    "Donald's Dock Pet Shop": {
+        "model_path": "phase_6/models/modules/PetShopExterior_DD"
+    },
+    "Donald's Dock Clothing Shop": {
+        "model_path": "phase_6/models/modules/clothshopDD"
+    },
+    "Donald's Dock Gag Shop": {
+        "model_path": "phase_6/models/modules/gagShop_DD"
+    },
+    "Donald's Dock Toon HQ": {
+        "model_path": "phase_6/models/modules/tt_m_ara_dod_SZ_hq",
+        "hide_nodes": [
+            "*HoleLeft_0",
+            "*HoleRight_0",
+            "*HoleLeft_1",
+            "*HoleRight_1"
+        ]
+    },
+    "Donald's Dock Toon HQ (Street)": {
+        "model_path": "phase_6/models/modules/tt_m_ara_dod_hq",
+        "hide_nodes": [
+            "*HoleLeft_0",
+            "*HoleRight_0",
+            "*HoleLeft_1",
+            "*HoleRight_1"
+        ]
+    },
+    "Minnie's Melodyland Building 1": {
+        "model_path": "phase_6/models/modules/MM_A1"
+    },
+    "Minnie's Melodyland Building 2": {
+        "model_path": "phase_6/models/modules/MM_A2"
+    },
+    "Minnie's Melodyland Building 3": {
+        "model_path": "phase_6/models/modules/MM_B1"
+    },
+    "Minnie's Melodyland Building 4": {
+        "model_path": "phase_6/models/modules/MM_B2"
+    },
+    "Minnie's Melodyland Building 5": {
+        "model_path": "phase_6/models/modules/MM_C1"
+    },
+    "Minnie's Melodyland Building 6": {
+        "model_path": "phase_6/models/modules/MM_D1"
+    },
+    "Minnie's Melodyland Building 7": {
+        "model_path": "phase_6/models/modules/MM_E1"
+    },
+    "Minnie's Melodyland Pet Shop": {
+        "model_path": "phase_6/models/modules/PetShopExterior_MM"
+    },
+    "Minnie's Melodyland Clothing Shop": {
+        "model_path": "phase_6/models/modules/clothshopMM"
+    },
+    "Minnie's Melodyland Gag Shop": {
+        "model_path": "phase_6/models/modules/gagShop_MM"
+    },
+    "Minnie's Melodyland Toon HQ": {
+        "model_path": "phase_6/models/modules/hqMM",
+        "hide_nodes": [
+            "*HoleLeft_0",
+            "*HoleRight_0",
+            "*HoleLeft_1",
+            "*HoleRight_1"
+        ]
+    },
+    "Daisy Gardens Building 1": {
+        "model_path": "phase_8/models/modules/DG_A1"
+    },
+    "Daisy Gardens Building 2": {
+        "model_path": "phase_8/models/modules/DG_A2"
+    },
+    "Daisy Gardens Building 3": {
+        "model_path": "phase_8/models/modules/DG_B1"
+    },
+    "Daisy Gardens Building 4": {
+        "model_path": "phase_8/models/modules/DG_C1"
+    },
+    "Daisy Gardens Building 5": {
+        "model_path": "phase_8/models/modules/DG_D1"
+    },
+    "Daisy Gardens Pet Shop": {
+        "model_path": "phase_8/models/modules/PetShopExterior_DG"
+    },
+    "Daisy Gardens Clothing Shop": {
+        "model_path": "phase_8/models/modules/clothshopDG"
+    },
+    "Daisy Gardens Gag Shop": {
+        "model_path": "phase_8/models/modules/gagShop_DG"
+    },
+    "Daisy Gardens Toon HQ": {
+        "model_path": "phase_8/models/modules/hqDG",
+        "hide_nodes": [
+            "*HoleLeft_0",
+            "*HoleRight_0",
+            "*HoleLeft_1",
+            "*HoleRight_1"
+        ]
+    },
+    "The Brrrgh Building 1": {
+        "model_path": "phase_8/models/modules/BR_A1"
+    },
+    "The Brrrgh Building 2": {
+        "model_path": "phase_8/models/modules/BR_A2"
+    },
+    "The Brrrgh Building 3": {
+        "model_path": "phase_8/models/modules/BR_B1"
+    },
+    "The Brrrgh Building 4": {
+        "model_path": "phase_8/models/modules/BR_B2"
+    },
+    "The Brrrgh Building 5": {
+        "model_path": "phase_8/models/modules/BR_B3"
+    },
+    "The Brrrgh Building 6": {
+        "model_path": "phase_8/models/modules/BR_C1"
+    },
+    "The Brrrgh Pet Shop": {
+        "model_path": "phase_8/models/modules/PetShopExterior_BR"
+    },
+    "The Brrrgh Clothing Shop": {
+        "model_path": "phase_8/models/modules/clothshopBR"
+    },
+    "The Brrrgh Gag Shop": {
+        "model_path": "phase_8/models/modules/gagShop_BR"
+    },
+    "The Brrrgh Toon HQ": {
+        "model_path": "phase_8/models/modules/hqBR",
+        "hide_nodes": [
+            "*HoleLeft_0",
+            "*HoleRight_0",
+            "*HoleLeft_1",
+            "*HoleRight_1"
+        ]
+    },
+    "Donald's Dreamland Building 1": {
+        "model_path": "phase_8/models/modules/DL_A1"
+    },
+    "Donald's Dreamland Building 2": {
+        "model_path": "phase_8/models/modules/DL_B1"
+    },
+    "Donald's Dreamland Building 3": {
+        "model_path": "phase_8/models/modules/DL_C1"
+    },
+    "Donald's Dreamland Building 4": {
+        "model_path": "phase_8/models/modules/DL_D1"
+    },
+    "Donald's Dreamland Building 5": {
+        "model_path": "phase_8/models/modules/DL_E1"
+    },
+    "Donald's Dreamland Pet Shop": {
+        "model_path": "phase_8/models/modules/PetShopExterior_DL"
+    },
+    "Donald's Dreamland Clothing Shop": {
+        "model_path": "phase_8/models/modules/clothshopDL"
+    },
+    "Donald's Dreamland Gag Shop": {
+        "model_path": "phase_8/models/modules/gagShop_DL"
+    },
+    "Donald's Dreamland Toon HQ": {
+        "model_path": "phase_8/models/modules/hqDL",
+        "hide_nodes": [
+            "*HoleLeft_0",
+            "*HoleRight_0",
+            "*HoleLeft_1",
+            "*HoleRight_1"
+        ]
+    },
+    "Toon Building Interior": {
+        "model_path": "phase_3.5/models/modules/toon_interior"
+    },
+    "L-Shaped Toon Building Interior": {
+        "model_path": "phase_3.5/models/modules/toon_interior_L"
+    },
+    "T-Shaped Toon Building Interior": {
+        "model_path": "phase_3.5/models/modules/toon_interior_T"
+    },
+    "Long Toon Building Interior": {
+        "model_path": "phase_3.5/models/modules/toon_interior_I"
+    },
+    "Counter": {
+        "model_path": "phase_3.5/models/modules/counter"
+    },
+    "Short Counter": {
+        "model_path": "phase_3.5/models/modules/counterShort"
+    },
+    "TTC Streetlight w/ Sign": {
+        "model_path": "phase_3.5/models/props/streetlight_TT",
+        "sub_node": "prop_post_sign"
+    },
+    "TTC Streetlight (1 Light)": {
+        "model_path": "phase_3.5/models/props/streetlight_TT",
+        "sub_node": "prop_post_one_light"
+    },
+    "TTC Streetlight (3 Lights)": {
+        "model_path": "phase_3.5/models/props/streetlight_TT",
+        "sub_node": "prop_post_three_light"
+    },
+    "DD Streetlight": {
+        "model_path": "phase_6/models/props/streetlight_DD",
+        "sub_node": "streetlight_DD_left"
+    },
+    "DG Streetlight 1": {
+        "model_path": "phase_8/models/props/streetlight_DG",
+        "sub_node": "prop_DG_flower_lamp1"
+    },
+    "DG Streetlight 2": {
+        "model_path": "phase_8/models/props/streetlight_DG",
+        "sub_node": "prop_DG_flower_lamp2"
+    },
+    "MM Streetlight (Flute)": {
+        "model_path": "phase_6/models/props/streetlight_MM",
+        "sub_node": "MM_flute_lamp"
+    },
+    "MM Streetlight (Trumpet)": {
+        "model_path": "phase_6/models/props/streetlight_MM",
+        "sub_node": "MM_trumpets_lamp"
+    },
+    "TB Streetlight (1 Light)": {
+        "model_path": "phase_8/models/props/streetlight_BR",
+        "sub_node": "prop_post_one_light"
+    },
+    "TB Streetlight (3 Lights)": {
+        "model_path": "phase_8/models/props/streetlight_BR",
+        "sub_node": "prop_post_three_light"
+    },
+    "DL Streetlight 1": {
+        "model_path": "phase_8/models/props/streetlight_DL",
+        "sub_node": "prop_post_one_light"
+    },
+    "DL Streetlight 2": {
+        "model_path": "phase_8/models/props/streetlight_DL",
+        "sub_node": "prop_post_three_light"
+    },
+    "Goofy Speedway Lamp Post": {
+        "model_path": "phase_6/models/karting/GoofyStadium_Lamppost_Base1",
+        "scale_multiplier": 10
+    },
+    "TTC Spooky Streetlight (1 Light)": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_streetlight_halloween",
+        "sub_node": "prop_post_one_light"
+    },
+    "TTC Spooky Streetlight (3 Lights)": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_streetlight_halloween",
+        "sub_node": "prop_post_three_light"
+    },
+    "DD Spooky Streetlight Left": {
+        "model_path": "phase_6/models/props/tt_m_ara_DD_streetlight_halloween",
+        "sub_node": "streetlight_DD_left"
+    },
+    "DD Spooky Streetlight Right": {
+        "model_path": "phase_6/models/props/tt_m_ara_DD_streetlight_halloween",
+        "sub_node": "streetlight_DD_right"
+    },
+    "DG Spooky Streetlight 1": {
+        "model_path": "phase_8/models/props/tt_m_ara_DG_streetlight_halloween",
+        "sub_node": "prop_DG_flower_lamp1"
+    },
+    "DG Spooky Streetlight 2": {
+        "model_path": "phase_8/models/props/tt_m_ara_DG_streetlight_halloween",
+        "sub_node": "prop_DG_flower_lamp2"
+    },
+    "MM Spooky Streetlight (Flute)": {
+        "model_path": "phase_6/models/props/tt_m_ara_MM_streetlight_halloween",
+        "sub_node": "MM_flute_lamp"
+    },
+    "MM Spooky Streetlight (Trumpets)": {
+        "model_path": "phase_6/models/props/tt_m_ara_MM_streetlight_halloween",
+        "sub_node": "MM_trumpets_lamp"
+    },
+    "DDL Spooky Streetlight Left": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_ddl_streetlight_halloween",
+        "sub_node": "streetlampL"
+    },
+    "DDL Spooky Streetlight Right": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_ddl_streetlight_halloween",
+        "sub_node": "streetlampR"
+    },
+    "DDL Spooky Streetlight (1 Light)": {
+        "model_path": "phase_8/models/props/tt_m_ara_DL_streetlight_halloween",
+        "sub_node": "prop_post_one_light"
+    },
+    "DDL Spooky Streetlight (3 Lights)": {
+        "model_path": "phase_8/models/props/tt_m_ara_DL_streetlight_halloween",
+        "sub_node": "prop_post_three_light"
+    },
+    "TTC Festive Streetlight (1 Light)": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_streetlight_winter",
+        "sub_node": "prop_post_one_light"
+    },
+    "TTC Festive Streetlight (3 Lights)": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_streetlight_winter",
+        "sub_node": "prop_post_three_light"
+    },
+    "DD Festive Streetlight Left": {
+        "model_path": "phase_6/models/props/tt_m_ara_DD_streetlight_winter",
+        "sub_node": "streetlight_DD_left"
+    },
+    "DD Festive Streetlight Right": {
+        "model_path": "phase_6/models/props/tt_m_ara_DD_streetlight_winter",
+        "sub_node": "streetlight_DD_right"
+    },
+    "DG Festive Streetlight 1": {
+        "model_path": "phase_8/models/props/tt_m_ara_DG_streetlight_winter",
+        "sub_node": "prop_DG_flower_lamp1"
+    },
+    "DG Festive Streetlight 2": {
+        "model_path": "phase_8/models/props/tt_m_ara_DG_streetlight_winter",
+        "sub_node": "prop_DG_flower_lamp2"
+    },
+    "MM Festive Streetlight (Flute)": {
+        "model_path": "phase_6/models/props/tt_m_ara_MM_streetlight_winter",
+        "sub_node": "MM_flute_lamp"
+    },
+    "MM Festive Streetlight (Trumpets)": {
+        "model_path": "phase_6/models/props/tt_m_ara_MM_streetlight_winter",
+        "sub_node": "MM_trumpets_lamp"
+    },
+    "DDL Festive Streetlight (1 Light)": {
+        "model_path": "phase_8/models/props/tt_m_ara_DL_streetlight_winter",
+        "sub_node": "prop_post_one_light"
+    },
+    "DDL Festive Streetlight (3 Lights)": {
+        "model_path": "phase_8/models/props/tt_m_ara_DL_streetlight_winter",
+        "sub_node": "prop_post_three_light"
+    },
+    "TTC Large Tree Left": {
+        "model_path": "phase_3.5/models/props/trees",
+        "sub_node": "prop_tree_large_no_box_ul"
+    },
+    "TTC Large Tree Right": {
+        "model_path": "phase_3.5/models/props/trees",
+        "sub_node": "prop_tree_large_no_box_ur"
+    },
+    "TTC Small Tree Left": {
+        "model_path": "phase_3.5/models/props/trees",
+        "sub_node": "prop_tree_small_no_box_ul"
+    },
+    "TTC Small Tree Right": {
+        "model_path": "phase_3.5/models/props/trees",
+        "sub_node": "prop_tree_small_nobox_ur"
+    },
+    "TTC Fat Tree Left": {
+        "model_path": "phase_3.5/models/props/trees",
+        "sub_node": "prop_tree_fat_no_box_ul"
+    },
+    "TTC Fat Tree Right": {
+        "model_path": "phase_3.5/models/props/trees",
+        "sub_node": "prop_tree_fat_no_box_ur"
+    },
+    "TTC Large Tree Brick Box Left": {
+        "model_path": "phase_3.5/models/props/trees",
+        "sub_node": "prop_tree_large_brickbox_ul"
+    },
+    "TTC Large Tree Brick Box Right": {
+        "model_path": "phase_3.5/models/props/trees",
+        "sub_node": "prop_tree_large_brickbox_ur"
+    },
+    "TTC Small Tree Brick Box Left": {
+        "model_path": "phase_3.5/models/props/trees",
+        "sub_node": "prop_tree_small_brickbox_ul"
+    },
+    "TTC Small Tree Brick Box Right": {
+        "model_path": "phase_3.5/models/props/trees",
+        "sub_node": "prop_tree_small_brickbox_ur"
+    },
+    "TTC Fat Tree Brick Box Left": {
+        "model_path": "phase_3.5/models/props/trees",
+        "sub_node": "prop_tree_fat_brickbox_ul"
+    },
+    "TTC Fat Tree Brick Box Right": {
+        "model_path": "phase_3.5/models/props/trees",
+        "sub_node": "prop_tree_fat_brickbox_ur"
+    },
+    "TTC Large Tree Wood Box Left": {
+        "model_path": "phase_3.5/models/props/trees",
+        "sub_node": "prop_tree_large_woodbox_ul"
+    },
+    "TTC Large Tree Wood Box Right": {
+        "model_path": "phase_3.5/models/props/trees",
+        "sub_node": "prop_tree_large_woodbox_ur"
+    },
+    "TTC Small Tree Wood Box Left": {
+        "model_path": "phase_3.5/models/props/trees",
+        "sub_node": "prop_tree_small_woodbox_ul"
+    },
+    "TTC Small Tree Wood Box Right": {
+        "model_path": "phase_3.5/models/props/trees",
+        "sub_node": "prop_tree_small_woodbox_ur"
+    },
+    "Palm Tree": {
+        "model_path": "phase_6/models/props/palm_tree_topflat"
+    },
+    "Acorn Acres Tree": {
+        "model_path": "phase_6/models/golf/outdoor_zone_tree"
+    },
+    "MML Tree Left": {
+        "model_path": "phase_6/models/props/trees_MM",
+        "sub_node": "prop_tree_small_ul"
+    },
+    "MML Tree Right": {
+        "model_path": "phase_6/models/props/trees_MM",
+        "sub_node": "prop_tree_small_ur"
+    },
+    "DG Tree Left": {
+        "model_path": "phase_8/models/props/trees_DG",
+        "sub_node": "prop_tree_DG_ul"
+    },
+    "DG Tree Right": {
+        "model_path": "phase_8/models/props/trees_DG",
+        "sub_node": "prop_tree_DG_ur"
+    },
+    "TB Large Tree Left": {
+        "model_path": "phase_8/models/props/pine_trees",
+        "sub_node": "prop_snow_tree_large_nobox_ul"
+    },
+    "TB Large Tree Right": {
+        "model_path": "phase_8/models/props/pine_trees",
+        "sub_node": "prop_snow_tree_large_nobox_ur"
+    },
+    "TB Small Tree Left": {
+        "model_path": "phase_8/models/props/pine_trees",
+        "sub_node": "prop_snow_tree_small_nobox_ul"
+    },
+    "TB Small Tree Right": {
+        "model_path": "phase_8/models/props/pine_trees",
+        "sub_node": "prop_snow_tree_small_nobox_ur"
+    },
+    "TB Large Tree Brick Box Left": {
+        "model_path": "phase_8/models/props/pine_trees",
+        "sub_node": "prop_snow_tree_large_brickbox_ul"
+    },
+    "TB Large Tree Brick Box Right": {
+        "model_path": "phase_8/models/props/pine_trees",
+        "sub_node": "prop_snow_tree_large_brickbox_ur"
+    },
+    "TB Small Tree Brick Box Left": {
+        "model_path": "phase_8/models/props/pine_trees",
+        "sub_node": "prop_snow_tree_small_brickbox_ul"
+    },
+    "TB Small Tree Brick Box Right": {
+        "model_path": "phase_8/models/props/pine_trees",
+        "sub_node": "prop_snow_tree_small_brickbox_ur"
+    },
+    "TB Large Tree Wood Box Left": {
+        "model_path": "phase_8/models/props/pine_trees",
+        "sub_node": "prop_snow_tree_large_woodbox_ul"
+    },
+    "TB Large Tree Wood Box Right": {
+        "model_path": "phase_8/models/props/pine_trees",
+        "sub_node": "prop_snow_tree_large_woodbox_ur"
+    },
+    "TB Small Tree Wood Box Left": {
+        "model_path": "phase_8/models/props/pine_trees",
+        "sub_node": "prop_snow_tree_small_woodbox_ul"
+    },
+    "TB Small Tree Wood Box Right": {
+        "model_path": "phase_8/models/props/pine_trees",
+        "sub_node": "prop_snow_tree_small_woodbox_ur"
+    },
+    "DDL Tree Left": {
+        "model_path": "phase_8/models/props/trees_DL",
+        "sub_node": "prop_tree_DL_brickbox_ul"
+    },
+    "DDL Tree Right": {
+        "model_path": "phase_8/models/props/trees_DL",
+        "sub_node": "prop_tree_DL_brickbox_ur"
+    },
+    "TTC Spooky Large Tree Left": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_trees_halloween",
+        "sub_node": "prop_tree_large_no_box_ul"
+    },
+    "TTC Spooky Large Tree Right": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_trees_halloween",
+        "sub_node": "prop_tree_large_no_box_ur"
+    },
+    "TTC Spooky Small Tree Left": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_trees_halloween",
+        "sub_node": "prop_tree_small_no_box_ul"
+    },
+    "TTC Spooky Small Tree Right": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_trees_halloween",
+        "sub_node": "prop_tree_small_nobox_ur"
+    },
+    "TTC Spooky Fat Tree Left": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_trees_halloween",
+        "sub_node": "prop_tree_fat_no_box_ul"
+    },
+    "TTC Spooky Fat Tree Right": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_trees_halloween",
+        "sub_node": "prop_tree_fat_no_box_ur"
+    },
+    "TTC Spooky Large Tree Brick Box Left": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_trees_halloween",
+        "sub_node": "prop_tree_large_brickbox_ul"
+    },
+    "TTC Spooky Large Tree Brick Box Right": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_trees_halloween",
+        "sub_node": "prop_tree_large_brickbox_ur"
+    },
+    "TTC Spooky Small Tree Brick Box Left": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_trees_halloween",
+        "sub_node": "prop_tree_small_brickbox_ul"
+    },
+    "TTC Spooky Small Tree Brick Box Right": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_trees_halloween",
+        "sub_node": "prop_tree_small_brickbox_ur"
+    },
+    "TTC Spooky Fat Tree Brick Box Left": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_trees_halloween",
+        "sub_node": "prop_tree_fat_brickbox_ul"
+    },
+    "TTC Spooky Fat Tree Brick Box Right": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_trees_halloween",
+        "sub_node": "prop_tree_fat_brickbox_ur"
+    },
+    "TTC Spooky Large Tree Wood Box Left": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_trees_halloween",
+        "sub_node": "prop_tree_large_woodbox_ul"
+    },
+    "TTC Spooky Large Tree Wood Box Right": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_trees_halloween",
+        "sub_node": "prop_tree_large_woodbox_ur"
+    },
+    "TTC Spooky Small Tree Wood Box Left": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_trees_halloween",
+        "sub_node": "prop_tree_small_woodbox_ul"
+    },
+    "TTC Spooky Small Tree Wood Box Right": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_TT_trees_halloween",
+        "sub_node": "prop_tree_small_woodbox_ur"
+    },
+    "Spooky Palm Tree": {
+        "model_path": "phase_6/models/props/tt_m_ara_DD_palmtree_topflat_halloween"
+    },
+    "MML Spooky Tree Left": {
+        "model_path": "phase_6/models/props/tt_m_ara_MM_tree_halloween",
+        "sub_node": "prop_tree_small_ul"
+    },
+    "MML Spooky Tree Right": {
+        "model_path": "phase_6/models/props/tt_m_ara_MM_tree_halloween",
+        "sub_node": "prop_tree_small_ur"
+    },
+    "DG Spooky Tree Left": {
+        "model_path": "phase_8/models/props/tt_m_ara_DG_tree_halloween_ghost",
+        "sub_node": "prop_tree_DG_ul"
+    },
+    "DG Spooky Tree Right": {
+        "model_path": "phase_8/models/props/tt_m_ara_DG_tree_halloween_ghost",
+        "sub_node": "prop_tree_DG_ur"
+    },
+    "TB Spooky Large Tree Left": {
+        "model_path": "phase_8/models/props/tt_m_ara_BR_pinetrees_halloween",
+        "sub_node": "prop_snow_tree_large_nobox_ul"
+    },
+    "TB Spooky Large Tree Right": {
+        "model_path": "phase_8/models/props/tt_m_ara_BR_pinetrees_halloween",
+        "sub_node": "prop_snow_tree_large_nobox_ur"
+    },
+    "TB Spooky Small Tree Left": {
+        "model_path": "phase_8/models/props/tt_m_ara_BR_pinetrees_halloween",
+        "sub_node": "prop_snow_tree_small_nobox_ul"
+    },
+    "TB Spooky Small Tree Right": {
+        "model_path": "phase_8/models/props/tt_m_ara_BR_pinetrees_halloween",
+        "sub_node": "prop_snow_tree_small_nobox_ur"
+    },
+    "TB Spooky Large Tree Brick Box Left": {
+        "model_path": "phase_8/models/props/tt_m_ara_BR_pinetrees_halloween",
+        "sub_node": "prop_snow_tree_large_brickbox_ul"
+    },
+    "TB Spooky Large Tree Brick Box Right": {
+        "model_path": "phase_8/models/props/tt_m_ara_BR_pinetrees_halloween",
+        "sub_node": "prop_snow_tree_large_brickbox_ur"
+    },
+    "TB Spooky Small Tree Brick Box Left": {
+        "model_path": "phase_8/models/props/tt_m_ara_BR_pinetrees_halloween",
+        "sub_node": "prop_snow_tree_small_brickbox_ul"
+    },
+    "TB Spooky Small Tree Brick Box Right": {
+        "model_path": "phase_8/models/props/tt_m_ara_BR_pinetrees_halloween",
+        "sub_node": "prop_snow_tree_small_brickbox_ur"
+    },
+    "TB Spooky Large Tree Wood Box Left": {
+        "model_path": "phase_8/models/props/tt_m_ara_BR_pinetrees_halloween",
+        "sub_node": "prop_snow_tree_large_woodbox_ul"
+    },
+    "TB Spooky Large Tree Wood Box Right": {
+        "model_path": "phase_8/models/props/tt_m_ara_BR_pinetrees_halloween",
+        "sub_node": "prop_snow_tree_large_woodbox_ur"
+    },
+    "TB Spooky Small Tree Wood Box Left": {
+        "model_path": "phase_8/models/props/tt_m_ara_BR_pinetrees_halloween",
+        "sub_node": "prop_snow_tree_small_woodbox_ul"
+    },
+    "TB Spooky Small Tree Wood Box Right": {
+        "model_path": "phase_8/models/props/tt_m_ara_BR_pinetrees_halloween",
+        "sub_node": "prop_snow_tree_small_woodbox_ur"
+    },
+    "DDL Spooky Tree Left": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_ddl_tree_halloween",
+        "sub_node": "tree_ddl_halloweenL"
+    },
+    "DDL Spooky Tree Right": {
+        "model_path": "phase_3.5/models/props/tt_m_ara_ddl_tree_halloween",
+        "sub_node": "tree_ddl_halloweenR"
+    },
+    "TTC Festive Large Tree Left": {
+        "model_path": "phase_3.5/models/props/winter_trees",
+        "sub_node": "prop_tree_large_no_box_ul"
+    },
+    "TTC Festive Large Tree Right": {
+        "model_path": "phase_3.5/models/props/winter_trees",
+        "sub_node": "prop_tree_large_no_box_ur"
+    },
+    "TTC Festive Small Tree Left": {
+        "model_path": "phase_3.5/models/props/winter_trees",
+        "sub_node": "prop_tree_small_no_box_ul"
+    },
+    "TTC Festive Small Tree Right": {
+        "model_path": "phase_3.5/models/props/winter_trees",
+        "sub_node": "prop_tree_small_nobox_ur"
+    },
+    "TTC Festive Fat Tree Left": {
+        "model_path": "phase_3.5/models/props/winter_trees",
+        "sub_node": "prop_tree_fat_no_box_ul"
+    },
+    "TTC Festive Fat Tree Right": {
+        "model_path": "phase_3.5/models/props/winter_trees",
+        "sub_node": "prop_tree_fat_no_box_ur"
+    },
+    "TTC Festive Large Tree Brick Box Left": {
+        "model_path": "phase_3.5/models/props/winter_trees",
+        "sub_node": "prop_tree_large_brickbox_ul"
+    },
+    "TTC Festive Large Tree Brick Box Right": {
+        "model_path": "phase_3.5/models/props/winter_trees",
+        "sub_node": "prop_tree_large_brickbox_ur"
+    },
+    "TTC Festive Small Tree Brick Box Left": {
+        "model_path": "phase_3.5/models/props/winter_trees",
+        "sub_node": "prop_tree_small_brickbox_ul"
+    },
+    "TTC Festive Small Tree Brick Box Right": {
+        "model_path": "phase_3.5/models/props/winter_trees",
+        "sub_node": "prop_tree_small_brickbox_ur"
+    },
+    "TTC Festive Fat Tree Brick Box Left": {
+        "model_path": "phase_3.5/models/props/winter_trees",
+        "sub_node": "prop_tree_fat_brickbox_ul"
+    },
+    "TTC Festive Fat Tree Brick Box Right": {
+        "model_path": "phase_3.5/models/props/winter_trees",
+        "sub_node": "prop_tree_fat_brickbox_ur"
+    },
+    "TTC Festive Large Tree Wood Box Left": {
+        "model_path": "phase_3.5/models/props/winter_trees",
+        "sub_node": "prop_tree_large_woodbox_ul"
+    },
+    "TTC Festive Large Tree Wood Box Right": {
+        "model_path": "phase_3.5/models/props/winter_trees",
+        "sub_node": "prop_tree_large_woodbox_ur"
+    },
+    "TTC Festive Small Tree Wood Box Left": {
+        "model_path": "phase_3.5/models/props/winter_trees",
+        "sub_node": "prop_tree_small_woodbox_ul"
+    },
+    "TTC Festive Small Tree Wood Box Right": {
+        "model_path": "phase_3.5/models/props/winter_trees",
+        "sub_node": "prop_tree_small_woodbox_ur"
+    },
+    "Festive Palm Tree": {
+        "model_path": "phase_6/models/props/winter_palm_tree_topflat"
+    },
+    "MML Festive Tree Left": {
+        "model_path": "phase_6/models/props/winter_trees_MM",
+        "sub_node": "prop_tree_small_ul"
+    },
+    "MML Festive Tree Right": {
+        "model_path": "phase_6/models/props/winter_trees_MM",
+        "sub_node": "prop_tree_small_ur"
+    },
+    "DG Festive Tree Left": {
+        "model_path": "phase_8/models/props/winter_trees_DG",
+        "sub_node": "prop_tree_DG_ul"
+    },
+    "DG Festive Tree Right": {
+        "model_path": "phase_8/models/props/winter_trees_DG",
+        "sub_node": "prop_tree_DG_ur"
+    },
+    "TB Festive Large Tree Left": {
+        "model_path": "phase_8/models/props/winter_pine_trees",
+        "sub_node": "prop_snow_tree_large_nobox_ul"
+    },
+    "TB Festive Large Tree Right": {
+        "model_path": "phase_8/models/props/winter_pine_trees",
+        "sub_node": "prop_snow_tree_large_nobox_ur"
+    },
+    "TB Festive Small Tree Left": {
+        "model_path": "phase_8/models/props/winter_pine_trees",
+        "sub_node": "prop_snow_tree_small_nobox_ul"
+    },
+    "TB Festive Small Tree Right": {
+        "model_path": "phase_8/models/props/winter_pine_trees",
+        "sub_node": "prop_snow_tree_small_nobox_ur"
+    },
+    "TB Festive Large Tree Brick Box Left": {
+        "model_path": "phase_8/models/props/winter_pine_trees",
+        "sub_node": "prop_snow_tree_large_brickbox_ul"
+    },
+    "TB Festive Large Tree Brick Box Right": {
+        "model_path": "phase_8/models/props/winter_pine_trees",
+        "sub_node": "prop_snow_tree_large_brickbox_ur"
+    },
+    "TB Festive Small Tree Brick Box Left": {
+        "model_path": "phase_8/models/props/winter_pine_trees",
+        "sub_node": "prop_snow_tree_small_brickbox_ul"
+    },
+    "TB Festive Small Tree Brick Box Right": {
+        "model_path": "phase_8/models/props/winter_pine_trees",
+        "sub_node": "prop_snow_tree_small_brickbox_ur"
+    },
+    "TB Festive Large Tree Wood Box Left": {
+        "model_path": "phase_8/models/props/winter_pine_trees",
+        "sub_node": "prop_snow_tree_large_woodbox_ul"
+    },
+    "TB Festive Large Tree Wood Box Right": {
+        "model_path": "phase_8/models/props/winter_pine_trees",
+        "sub_node": "prop_snow_tree_large_woodbox_ur"
+    },
+    "TB Festive Small Tree Wood Box Left": {
+        "model_path": "phase_8/models/props/winter_pine_trees",
+        "sub_node": "prop_snow_tree_small_woodbox_ul"
+    },
+    "TB Festive Small Tree Wood Box Right": {
+        "model_path": "phase_8/models/props/winter_pine_trees",
+        "sub_node": "prop_snow_tree_small_woodbox_ur"
+    },
+    "DDL Festive Tree Left": {
+        "model_path": "phase_8/models/props/winter_trees_DL",
+        "sub_node": "prop_tree_DL_brickbox_ul"
+    },
+    "DDL Festive Tree Right": {
+        "model_path": "phase_8/models/props/winter_trees_DL",
+        "sub_node": "prop_tree_DL_brickbox_ur"
+    },
+    "TTC Sign": {
+        "model_path": "phase_3.5/models/props/neighborhood_sign_TT"
+    },
+    "DD Sign": {
+        "model_path": "phase_4/models/props/neighborhood_sign_DD"
+    },
+    "DG Sign": {
+        "model_path": "phase_4/models/props/neighborhood_sign_DG"
+    },
+    "MML Sign": {
+        "model_path": "phase_4/models/props/neighborhood_sign_MM"
+    },
+    "TB Sign": {
+        "model_path": "phase_4/models/props/neighborhood_sign_BR"
+    },
+    "DL Sign": {
+        "model_path": "phase_4/models/props/neighborhood_sign_DL"
+    },
+    "SBHQ Sign": {
+        "model_path": "phase_4/models/props/neighborhood_sign_sellBotHQ"
+    },
+    "CBHQ Sign": {
+        "model_path": "phase_8/models/props/neighborhood_sign_cashBotHQ"
+    },
+    "LBHQ Sign": {
+        "model_path": "phase_8/models/props/neighborhood_sign_lawBotHQ"
+    },
+    "Under Construction Sign": {
+        "model_path": "phase_6/models/golf/golf_construction_sign"
+    },
+    "Fire Hydrant": {
+        "model_path": "phase_5/models/char/tt_r_ara_ttc_hydrant"
+    },
+    "Mailbox": {
+        "model_path": "phase_5/models/char/tt_r_ara_ttc_mailbox"
+    },
+    "Trashcan": {
+        "model_path": "phase_5/models/char/tt_r_ara_ttc_trashcan"
+    },
+    "Pelican Mailbox": {
+        "model_path": "phase_6/models/char/tt_r_ara_dod_mailbox"
+    },
+    "Dock Trashcan": {
+        "model_path": "phase_6/models/char/tt_r_ara_dod_trashcan"
+    },
+    "Musical Hydrant": {
+        "model_path": "phase_6/models/char/tt_r_ara_mml_hydrant"
+    },
+    "Jukebox Mailbox": {
+        "model_path": "phase_6/models/char/tt_r_ara_mml_mailbox"
+    },
+    "Record Player Trashcan": {
+        "model_path": "phase_6/models/char/tt_r_ara_mml_trashcan"
+    },
+    "Daisy Gardens Hydrant": {
+        "model_path": "phase_8/models/char/tt_r_ara_dga_hydrant"
+    },
+    "Daisy Gardens Mailbox": {
+        "model_path": "phase_8/models/char/tt_r_ara_dga_mailbox"
+    },
+    "Daisy Gardens Trashcan": {
+        "model_path": "phase_8/models/char/tt_r_ara_dga_trashcan"
+    },
+    "Chilly Hydrant": {
+        "model_path": "phase_8/models/char/tt_r_ara_tbr_hydrant"
+    },
+    "Skiing Mailbox": {
+        "model_path": "phase_8/models/char/tt_r_ara_tbr_mailbox"
+    },
+    "Frozen Trashcan": {
+        "model_path": "phase_8/models/char/tt_r_ara_tbr_trashcan"
+    },
+    "Sleepy Hydrant": {
+        "model_path": "phase_8/models/char/tt_r_ara_ddl_hydrant"
+    },
+    "Sleepy Mailbox": {
+        "model_path": "phase_8/models/char/tt_r_ara_ddl_mailbox"
+    },
+    "Sleepy Trashcan": {
+        "model_path": "phase_8/models/char/tt_r_ara_ddl_trashcan"
+    },
+    "Goofy Mailbox": {
+        "model_path": "phase_6/models/karting/GoofyStadium_Mailbox",
+        "scale_multiplier": 10
+    },
+    "Big Planter": {
+        "model_path": "phase_3.5/models/props/big_planter",
+        "scale_multiplier": 0.5
+    },
+    "Park Table": {
+        "model_path": "phase_8/models/props/daisy_park_table"
+    },
+    "Pink Flower box": {
+        "model_path": "phase_8/models/props/daisys_flowerbox_pink"
+    },
+    "Yellow Flower box": {
+        "model_path": "phase_8/models/props/daisys_flowerbox_yellow"
+    },
+    "Laugh Barrel": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_cbr_laughBarrel"
+    },
+    "Safes": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_ccg_safesA",
+        "scale_multiplier": 0.25
+    },
+    "Streamer": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_cfg_streamer",
+        "scale_multiplier": 0.25
+    },
+    "Toon Propeller": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_cfg_toonPropeller"
+    },
+    "Whirlwind": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_cfg_whirlwind",
+        "scale_multiplier": 0.25
+    },
+    "Water Balloon": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_cmg_waterBalloon"
+    },
+    "Locomotive": {
+        "model_path": "phase_10/models/cogHQ/CashBotLocomotive",
+        "scale_multiplier": 0.1
+    },
+    "Flatcar": {
+        "model_path": "phase_10/models/cogHQ/CashBotFlatCar",
+        "scale_multiplier": 0.1
+    },
+    "Boxcar": {
+        "model_path": "phase_10/models/cogHQ/CashBotBoxCar",
+        "scale_multiplier": 0.1
+    },
+    "Tankcar": {
+        "model_path": "phase_10/models/cogHQ/CashBotTankCar",
+        "scale_multiplier": 0.1
+    },
+    "Money Stack": {
+        "model_path": "phase_10/models/cogHQ/DoubleMoneyStack",
+        "scale_multiplier": 0.5
+    },
+    "Coin Stack": {
+        "model_path": "phase_10/models/cashbotHQ/DoubleCoinStack",
+        "scale_multiplier": 0.5
+    },
+    "Wooden Crate": {
+        "model_path": "phase_9/models/cogHQ/woodCrateB"
+    },
+    "Metal Crate": {
+        "model_path": "phase_9/models/cogHQ/metal_crateB"
+    },
+    "Cashbot Crate": {
+        "model_path": "phase_10/models/cogHQ/CBMetalCrate2"
+    },
+    "Cog Nation Crate": {
+        "model_path": "phase_10/models/cashbotHQ/CBWoodCrate"
+    },
+    "Cog Safe": {
+        "model_path": "phase_10/models/cogHQ/CBSafe",
+        "scale_multiplier": 0.75
+    },
+    "Coin": {
+        "model_path": "phase_10/models/cashbotHQ/CBCoin1",
+        "scale_multiplier": 0.1
+    },
+    "Gold Stack": {
+        "model_path": "phase_10/models/cashbotHQ/DoubleGoldStack",
+        "scale_multiplier": 0.5
+    },
+    "Register": {
+        "model_path": "phase_10/models/cashbotHQ/CashBotHQCshRegister",
+        "scale_multiplier": 0.25
+    },
+    "Money Stack Small": {
+        "model_path": "phase_10/models/cashbotHQ/MoneyStackPallet",
+        "scale_multiplier": 0.5
+    },
+    "Moneybag": {
+        "model_path": "phase_10/models/cashbotHQ/MoneyBag"
+    },
+    "Gold Stack Small": {
+        "model_path": "phase_10/models/cashbotHQ/GoldBarStack",
+        "scale_multiplier": 0.5
+    },
+    "Gold": {
+        "model_path": "phase_10/models/cashbotHQ/GoldBar"
+    },
+    "Money": {
+        "model_path": "phase_10/models/cashbotHQ/MoneyStack"
+    },
+    "Money Bag Shelf": {
+        "model_path": "phase_10/models/cashbotHQ/shelf_A1MoneyBags",
+        "scale_multiplier": 0.5
+    },
+    "Dollar Shelf": {
+        "model_path": "phase_10/models/cashbotHQ/shelf_A1Money",
+        "scale_multiplier": 0.5
+    },
+    "Gold Shelf": {
+        "model_path": "phase_10/models/cashbotHQ/shelf_A1Gold",
+        "scale_multiplier": 0.5
+    },
+    "Silly Signs 1": {
+        "model_path": "phase_4/models/props/tt_m_ara_ttc_sillyMeterSign_groupA"
+    },
+    "Silly Signs 2": {
+        "model_path": "phase_4/models/props/tt_m_ara_ttc_sillyMeterSign_groupB"
+    },
+    "Mickey Horse": {
+        "model_path": "phase_4/models/props/mickey_on_horse",
+        "scale_multiplier": 0.25
+    },
+    "Winter Tree": {
+        "model_path": "phase_4/models/props/winter_tree_Christmas",
+        "scale_multiplier": 0.5
+    },
+    "Winter Tree 2": {
+        "model_path": "phase_5.5/models/estate/tt_m_prp_int_winter_tree"
+    },
+    "Fishies": {
+        "model_path": "phase_4/models/props/interiorfish-zero"
+    },
+    "Fountain": {
+        "model_path": "phase_4/models/props/toontown_central_fountain",
+        "scale_multiplier": 0.25
+    },
+    "Paint Mixer": {
+        "model_path": "phase_9/models/cogHQ/PaintMixer",
+        "scale_multiplier": 0.5
+    },
+    "Stomper": {
+        "model_path": "phase_9/models/cogHQ/square_stomper"
+    },
+    "Cog Door": {
+        "model_path": "phase_9/models/cogHQ/CogDoorHandShake",
+        "scale_multiplier": 0.25
+    },
+    "Factory Elevator": {
+        "model_path": "phase_9/models/cogHQ/Elevator",
+        "scale_multiplier": 0.5,
+        "hide_nodes": [
+            "wall_left",
+            "wall_right",
+            "wall_front",
+            "wall_back",
+            "ceiling"
+        ]
+    },
+    "Factory Gear": {
+        "model_path": "phase_9/models/cogHQ/FactoryGearB"
+    },
+    "Factory Shaft": {
+        "model_path": "phase_9/models/cogHQ/FactoryGearBpost"
+    },
+    "Boiler 1": {
+        "model_path": "phase_10/models/cashbotHQ/boiler_A1",
+        "scale_multiplier": 0.5
+    },
+    "Boiler 2": {
+        "model_path": "phase_10/models/cashbotHQ/boiler_B1",
+        "scale_multiplier": 0.5
+    },
+    "Pipes 1": {
+        "model_path": "phase_10/models/cashbotHQ/pipes_E",
+        "scale_multiplier": 0.5
+    },
+    "Pipes 2": {
+        "model_path": "phase_10/models/cashbotHQ/pipes_C",
+        "scale_multiplier": 0.25
+    },
+    "Joke": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_csa_joke"
+    },
+    "Memo": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_csa_memo"
+    },
+    "Cabinet": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_cmg_cabinetSmFalling"
+    },
+    "Divider": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_cmg_grouping_blockerDivider"
+    },
+    "Legal Eagle Feather": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_cfg_legalEagleFeather"
+    },
+    "Red Tape Ring": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_cfg_redTapeRing"
+    },
+    "Platform": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_cfg_levelStart"
+    },
+    "Sellbot Painting": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_crg_paintingMoverShaker"
+    },
+    "Lawbot Painting": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_crg_paintingLegalEagle"
+    },
+    "Inflatable Mover and Shaker": {
+        "model_path": "phase_5.5/models/estate/tt_a_ara_pty_tubeCogVictory_default"
+    },
+    "Inflatable Bloodsucker": {
+        "model_path": "phase_5.5/models/estate/ttoff_r_ara_pty_tubeCogHalloween"
+    },
+    "Jellybean Bank": {
+        "model_path": "phase_5.5/models/estate/jellybeanBank"
+    },
+    "Panda3D": {
+        "model_path": "phase_3/models/char/panda"
+    },
+    "Dummy Cog": {
+        "model_path": "phase_13/models/parties/cogPinata_actor"
+    },
+    "Cannon": {
+        "model_path": "phase_4/models/minigames/toon_cannon"
+    },
+    "Small Trampoline": {
+        "model_path": "phase_4/models/minigames/slingshot_game_tramp",
+        "scale_multiplier": 0.25
+    },
+    "Trampoline": {
+        "model_path": "phase_13/models/parties/trampoline_model",
+        "scale_multiplier": 0.5
+    },
+    "Trolley Hole": {
+        "model_path": "phase_4/models/minigames/trolley_game_turntable",
+        "scale_multiplier": 0.25
+    },
+    "Water Tower": {
+        "model_path": "phase_4/models/minigames/toon_cannon_water_tower",
+        "scale_multiplier": 0.2
+    },
+    "Broken Leaderboard": {
+        "model_path": "phase_6/models/karting/tt_m_ara_gfs_leaderBoardCrashed",
+        "scale_multiplier": 0.5
+    },
+    "Krate": {
+        "model_path": "phase_6/models/karting/krate"
+    },
+    "Wrenches": {
+        "model_path": "phase_6/models/karting/KartArea_WrenchJack",
+        "scale_multiplier": 0.25
+    },
+    "Tires": {
+        "model_path": "phase_6/models/karting/KartArea_Tires",
+        "scale_multiplier": 0.25
+    },
+    "Cone": {
+        "model_path": "phase_6/models/karting/cone"
+    },
+    "Announcer Post": {
+        "model_path": "phase_6/models/karting/announcer"
+    },
+    "Gift Box": {
+        "model_path": "phase_6/models/karting/qbox"
+    },
+    "Gazebo": {
+        "model_path": "phase_4/models/modules/gazebo",
+        "scale_multiplier": 0.25
+    },
+    "Party Stage": {
+        "model_path": "phase_13/models/parties/tt_a_ara_pty_hydra_default"
+    },
+    "Cog Kart": {
+        "model_path": "phase_12/models/bossbotHQ/Coggolf_cart3",
+        "scale_multiplier": 0.75
+    },
+    "Ice Game Barrel": {
+        "model_path": "phase_4/models/minigames/ice_game_barrel"
+    },
+    "Ice Game Crate": {
+        "model_path": "phase_4/models/minigames/ice_game_crate"
+    },
+    "Ice Tire": {
+        "model_path": "phase_4/models/minigames/ice_game_tire"
+    },
+    "Cog Moneybin": {
+        "model_path": "phase_14.5/models/props/cog-moneybin",
+        "scale_multiplier": 0.25
+    },
+    "Dance Floor": {
+        "model_path": "phase_13/models/parties/danceFloor",
+        "scale_multiplier": 0.25
+    },
+    "Dancing Building": {
+        "model_path": "phase_5/models/char/tt_r_ara_ttc_B2"
+    },
+    "Apple": {
+        "model_path": "phase_4/models/minigames/apple"
+    },
+    "Orange": {
+        "model_path": "phase_4/models/minigames/orange"
+    },
+    "Pear": {
+        "model_path": "phase_4/models/minigames/pear"
+    },
+    "Coconut": {
+        "model_path": "phase_4/models/minigames/coconut"
+    },
+    "Watermelon": {
+        "model_path": "phase_4/models/minigames/watermelon"
+    },
+    "Pineapple": {
+        "model_path": "phase_4/models/minigames/pineapple"
+    },
+    "Bookshelf": {
+        "model_path": "phase_11/models/lawbotHQ/LB_bookshelfB"
+    },
+    "Chair": {
+        "model_path": "phase_11/models/lawbotHQ/LB_chairA"
+    },
+    "Couch": {
+        "model_path": "phase_11/models/lawbotHQ/LB_couchA"
+    },
+    "Desk": {
+        "model_path": "phase_11/models/lawbotHQ/LB_deskA"
+    },
+    "Lawbot Gavel": {
+        "model_path": "phase_11/models/lawbotHQ/LB_gavel"
+    },
+    "Paper Stack": {
+        "model_path": "phase_11/models/lawbotHQ/LB_paper_stacks",
+        "scale_multiplier": 0.5
+    },
+    "Paper Stack Small": {
+        "model_path": "phase_11/models/lawbotHQ/LB_paper_twist_stacks"
+    },
+    "Lamp 1": {
+        "model_path": "phase_11/models/lawbotHQ/LB_torch_lampA"
+    },
+    "Lamp 2": {
+        "model_path": "phase_11/models/lawbotHQ/LB_torch_lampB",
+        "scale_multiplier": 0.5
+    },
+    "Lamp 3": {
+        "model_path": "phase_11/models/lawbotHQ/LB_torch_lampC"
+    },
+    "Potted Plant": {
+        "model_path": "phase_11/models/lawbotHQ/LB_pottedplantA",
+        "scale_multiplier": 5.0
+    },
+    "Lawbot Box": {
+        "model_path": "phase_11/models/lawbotHQ/LB_CardBoardBox"
+    },
+    "Lawbot Pillar": {
+        "model_path": "phase_11/models/lawbotHQ/LB_pillar"
+    },
+    "Lawbot Scale": {
+        "model_path": "phase_11/models/lawbotHQ/scale2"
+    },
+    "Cog Gun": {
+        "model_path": "phase_14.5/models/props/cog-gun"
+    },
+    "Dank Gun": {
+        "model_path": "phase_14.5/models/props/dank-gun"
+    },
+    "Fidget Spinner": {
+        "model_path": "phase_14.5/models/props/fidget-spinner"
+    },
+    "Guitar": {
+        "model_path": "phase_14.5/models/props/guitar"
+    },
+    "Witness Stand": {
+        "model_path": "phase_14.5/models/props/witness-stand"
+    },
+    "Sandwich": {
+        "model_path": "phase_6/models/golf/picnic_sandwich"
+    },
+    "Cupcake": {
+        "model_path": "phase_6/models/golf/picnic_cupcake"
+    },
+    "Cake": {
+        "model_path": "phase_6/models/golf/picnic_chocolate_cake"
+    },
+    "Basket": {
+        "model_path": "phase_6/models/golf/picnic_basket"
+    },
+    "Table": {
+        "model_path": "phase_6/models/golf/picnic_table",
+        "scale_multiplier": 0.5
+    },
+    "Cog Mole": {
+        "model_path": "phase_12/models/bossbotHQ/mole_cog"
+    },
+    "Toon Mole": {
+        "model_path": "phase_12/models/bossbotHQ/mole_norm"
+    },
+    "Mole Hole": {
+        "model_path": "phase_12/models/bossbotHQ/mole_hole"
+    },
+    "Umbrella": {
+        "model_path": "phase_4/models/minigames/slingshot_game_umbrellas",
+        "sub_node": "open_umbrella"
+    },
+    "Treasure": {
+        "model_path": "phase_4/models/minigames/treasure",
+        "scale_multiplier": 0.05
+    },
+    "Jury Chair": {
+        "model_path": "phase_11/models/lawbotHQ/JuryBoxChair",
+        "scale_multiplier": 0.25
+    },
+    "Banquet Table": {
+        "model_path": "phase_12/models/bossbotHQ/BanquetTableChairs",
+        "scale_multiplier": 0.5
+    },
+    "Cog Can": {
+        "model_path": "phase_12/models/bossbotHQ/canoffood",
+        "scale_multiplier": 0.5
+    },
+    "Cog Button": {
+        "model_path": "phase_9/models/cogHQ/CogDoor_Button"
+    },
+    "C.J. Statue": {
+        "model_path": "phase_14.5/models/props/cj-statue",
+        "scale_multiplier": 0.1
+    },
+    "GODSHARK": {
+        "model_path": "phase_14.5/models/props/god-shark",
+        "scale_multiplier": 0.25
+    },
+    "Goofy Statue": {
+        "model_path": "phase_4/models/props/goofy_statue"
+    },
+    "Coffin": {
+        "model_path": "phase_4/models/props/coffin"
+    },
+    "Lighthouse": {
+        "model_path": "phase_6/models/props/DD_lighthouse",
+        "scale_multiplier": 0.25
+    },
+    "Golf Gazebo": {
+        "model_path": "phase_6/models/golf/golf_gazebo",
+        "scale_multiplier": 0.25
+    },
+    "Fancy Windmill": {
+        "model_path": "phase_6/models/golf/golf_windmill_b",
+        "scale_multiplier": 0.5
+    },
+    "Windmill": {
+        "model_path": "phase_6/models/golf/windmill",
+        "scale_multiplier": 0.5
+    },
+    "Snowman": {
+        "model_path": "phase_8/models/props/snowman"
+    },
+    "Small Fountain": {
+        "model_path": "phase_8/models/props/tt_m_ara_dga_fountain"
+    },
+    "Large Snow Pile": {
+        "model_path": "phase_8/models/props/snow_pile_full"
+    },
+    "Full Snow Pile": {
+        "model_path": "phase_14.5/models/props/snow_pile_fuller"
+    },
+    "Stove": {
+        "model_path": "phase_8/models/props/potbelly_stove"
+    },
+    "Ice Cube - Glove": {
+        "model_path": "phase_8/models/props/icecube",
+        "sub_node": "icecube_glove"
+    },
+    "Ice Cube - Ear Muffs": {
+        "model_path": "phase_8/models/props/icecube",
+        "sub_node": "icecube_ear_protection"
+    },
+    "Ice Cube - Sunglasses": {
+        "model_path": "phase_8/models/props/icecube",
+        "sub_node": "icecube_sunglasses"
+    },
+    "Ice Cube - Boot 1": {
+        "model_path": "phase_8/models/props/icecube",
+        "sub_node": "icecube_shoe_v"
+    },
+    "Ice Cube - Boot 2": {
+        "model_path": "phase_8/models/props/icecube",
+        "sub_node": "icecube_shoe_h"
+    },
+    "Sellbot Table": {
+        "model_path": "phase_14.5/models/props/sellbot-props",
+        "sub_node": "table",
+        "scale_multiplier": 0.5
+    },
+    "Sellbot Monitor 1": {
+        "model_path": "phase_14.5/models/props/sellbot-props",
+        "sub_node": "stocks_monitor",
+        "scale_multiplier": 0.5
+    },
+    "Sellbot Monitor 2": {
+        "model_path": "phase_14.5/models/props/sellbot-props",
+        "sub_node": "value_monitor",
+        "scale_multiplier": 0.5
+    },
+    "Sellbot Lamp": {
+        "model_path": "phase_14.5/models/props/sellbot-props",
+        "sub_node": "lamp",
+        "scale_multiplier": 0.5
+    },
+    "Sellbot Cabinet": {
+        "model_path": "phase_14.5/models/props/sellbot-props",
+        "sub_node": "cabient",
+        "scale_multiplier": 0.5
+    },
+    "Carrot Nose": {
+        "model_path": "phase_14.5/models/props/carrot-nose",
+        "scale_multiplier": 5
+    },
+    "Weird Big Cheese": {
+        "model_path": "phase_14.5/models/props/commercial-big-cheese",
+        "scale_multiplier": 2.5
+    },
+    "Cog Papers": {
+        "model_path": "phase_14.5/models/props/papers"
+    },
+    "Smash Invitation": {
+        "model_path": "phase_14.5/models/props/smash-letter",
+        "scale_multiplier": 1.5
+    },
+    "Snow Booth": {
+        "model_path": "phase_14.5/models/props/snow-booth",
+        "scale_multiplier": 0.5
+    },
+    "Mailbag": {
+        "model_path": "phase_14.5/models/char/mailbag-mod"
+    },
+    "Sunchaser": {
+        "model_path": "phase_14/models/props/sunchaser",
+        "scale_multiplier": 0.5
+    },
+    "Cage": {
+        "model_path": "phase_14.5/models/props/cage",
+        "scale_multiplier": 0.1
+    },
+    "Welcome Sign": {
+        "model_path": "phase_14/models/props/welcome-sign",
+        "scale_multiplier": 0.25
+    },
+    "Armchair": {
+        "model_path": "phase_5.5/models/estate/chairA"
+    },
+    "Green Chair": {
+        "model_path": "phase_3.5/models/modules/chair"
+    },
+    "Desk Chair": {
+        "model_path": "phase_5.5/models/estate/deskChair"
+    },
+    "Log Chair": {
+        "model_path": "phase_5.5/models/estate/BugRoomChair"
+    },
+    "Lobster Chair": {
+        "model_path": "phase_5.5/models/estate/UWlobsterChair"
+    },
+    "Lifejacket Chair": {
+        "model_path": "phase_5.5/models/estate/UWlifeSaverChair"
+    },
+    "Saddle Stool": {
+        "model_path": "phase_5.5/models/estate/West_saddleStool2"
+    },
+    "Native Chair": {
+        "model_path": "phase_5.5/models/estate/West_nativeChair"
+    },
+    "Cupcake Chair": {
+        "model_path": "phase_5.5/models/estate/cupcakeChair"
+    },
+    "Cushioned Chair": {
+        "model_path": "phase_3.5/models/modules/couch_1person"
+    },
+    "Cushioned Couch": {
+        "model_path": "phase_3.5/models/modules/couch_2person"
+    },
+    "Regular Bed": {
+        "model_path": "phase_5.5/models/estate/regular_bed"
+    },
+    "Girly Bed": {
+        "model_path": "phase_5.5/models/estate/girly_bed"
+    },
+    "Bathtub Bed": {
+        "model_path": "phase_5.5/models/estate/bathtub_bed"
+    },
+    "Leaf Bed": {
+        "model_path": "phase_5.5/models/estate/bugRoomBed"
+    },
+    "Boat Bed": {
+        "model_path": "phase_5.5/models/estate/UWBoatBed"
+    },
+    "Cactus Hammock": {
+        "model_path": "phase_5.5/models/estate/West_cactusHammoc"
+    },
+    "Ice Cream Bed": {
+        "model_path": "phase_5.5/models/estate/icecreamBed"
+    },
+    "Player Piano": {
+        "model_path": "phase_5.5/models/estate/Piano"
+    },
+    "Pipe Organ": {
+        "model_path": "phase_5.5/models/estate/Organ"
+    },
+    "Unlit Square Fireplace": {
+        "model_path": "phase_5.5/models/estate/FireplaceSq"
+    },
+    "Lit Square Fireplace": {
+        "model_path": "phase_5.5/models/estate/tt_m_prp_int_fireplace_square"
+    },
+    "Unlit Girly Fireplace": {
+        "model_path": "phase_5.5/models/estate/FireplaceGirlee"
+    },
+    "Lit Girly Fireplace": {
+        "model_path": "phase_5.5/models/estate/tt_m_prp_int_fireplace_girlee"
+    },
+    "Unlit Round Fireplace": {
+        "model_path": "phase_5.5/models/estate/FireplaceRound"
+    },
+    "Lit Round Fireplace": {
+        "model_path": "phase_5.5/models/estate/tt_m_prp_int_fireplace_round"
+    },
+    "Unlit Bugroom Fireplace": {
+        "model_path": "phase_5.5/models/estate/bugRoomFireplace"
+    },
+    "Lit Bugroom Fireplace": {
+        "model_path": "phase_5.5/models/estate/tt_m_prp_int_fireplace_bugRoom"
+    },
+    "Static Caramel Fireplace": {
+        "model_path": "phase_5.5/models/estate/CarmelAppleFireplace"
+    },
+    "Animated Caramel Fireplace": {
+        "model_path": "phase_5.5/models/estate/tt_m_prp_int_fireplace_caramelApple"
+    },
+    "Unlit Coral Fireplace": {
+        "model_path": "phase_5.5/models/estate/fireplace_coral"
+    },
+    "Lit Coral Fireplace": {
+        "model_path": "phase_5.5/models/estate/tt_m_prp_int_fireplace_coral"
+    },
+    "Boy's Wardrobe": {
+        "model_path": "phase_5.5/models/estate/closetBoy"
+    },
+    "Girl's Wardrobe": {
+        "model_path": "phase_5.5/models/estate/closetGirl"
+    },
+    "Short Lamp": {
+        "model_path": "phase_3.5/models/modules/lamp_short"
+    },
+    "Tall Lamp": {
+        "model_path": "phase_3.5/models/modules/lamp_tall"
+    },
+    "Table Lamp": {
+        "model_path": "phase_5.5/models/estate/lampA"
+    },
+    "Daisy Lamp 1": {
+        "model_path": "phase_5.5/models/estate/bugRoomDaisyLamp1"
+    },
+    "Daisy Lamp 2": {
+        "model_path": "phase_5.5/models/estate/bugRoomDaisyLamp2"
+    },
+    "Jellyfish Lamp 1": {
+        "model_path": "phase_5.5/models/estate/UWlamp_jellyfish"
+    },
+    "Jellyfish Lamp 2": {
+        "model_path": "phase_5.5/models/estate/UWlamps_jellyfishB"
+    },
+    "Cowboy Lamp": {
+        "model_path": "phase_5.5/models/estate/West_cowboyLamp"
+    },
+    "Candle": {
+        "model_path": "phase_5.5/models/estate/tt_m_ara_int_candlestick"
+    },
+    "Lit Candle": {
+        "model_path": "phase_5.5/models/estate/tt_m_ara_int_candlestickLit"
+    },
+    "Hay Couch": {
+        "model_path": "phase_5.5/models/estate/West_HayCouch"
+    },
+    "Shortcake Couch": {
+        "model_path": "phase_5.5/models/estate/twinkieCouch"
+    },
+    "Plain Desk": {
+        "model_path": "phase_3.5/models/modules/desk_only_wo_phone"
+    },
+    "Log Desk": {
+        "model_path": "phase_5.5/models/estate/BugRoomDesk"
+    },
+    "Umbrella Stand": {
+        "model_path": "phase_3.5/models/modules/umbrella_stand"
+    },
+    "Coat Rack": {
+        "model_path": "phase_3.5/models/modules/coatrack"
+    },
+    "Paper Trashcan": {
+        "model_path": "phase_3.5/models/modules/paper_trashcan"
+    },
+    "Red Mushroom Pot": {
+        "model_path": "phase_5.5/models/estate/BugRoomRedMushroomPot"
+    },
+    "Yellow Mushroom Pot": {
+        "model_path": "phase_5.5/models/estate/BugRoomYellowMushroomPot"
+    },
+    "Coral Coat Rack": {
+        "model_path": "phase_5.5/models/estate/UWcoralClothRack"
+    },
+    "Barrel Stand": {
+        "model_path": "phase_5.5/models/estate/west_barrelStand"
+    },
+    "Cactus Plant": {
+        "model_path": "phase_5.5/models/estate/West_fatCactus"
+    },
+    "Teepee": {
+        "model_path": "phase_5.5/models/estate/West_Tepee"
+    },
+    "Gag Fan": {
+        "model_path": "phase_5.5/models/estate/gag_fan"
+    },
+    "Large Rug": {
+        "model_path": "phase_3.5/models/modules/rug"
+    },
+    "Round Rug": {
+        "model_path": "phase_5.5/models/estate/rugA"
+    },
+    "Small Rug": {
+        "model_path": "phase_5.5/models/estate/rugB"
+    },
+    "Leaf Mat": {
+        "model_path": "phase_5.5/models/estate/bugRoomLeafMat"
+    },
+    "Presents": {
+        "model_path": "phase_5.5/models/estate/tt_m_ara_int_presents"
+    },
+    "Red Display Cabinet": {
+        "model_path": "phase_5.5/models/estate/cabinetRwood"
+    },
+    "Yellow Display Cabinet": {
+        "model_path": "phase_5.5/models/estate/cabinetYwood"
+    },
+    "Tall Bookcase": {
+        "model_path": "phase_3.5/models/modules/bookcase"
+    },
+    "Low Bookcase": {
+        "model_path": "phase_3.5/models/modules/bookcase_low"
+    },
+    "Sundae Chest": {
+        "model_path": "phase_5.5/models/estate/icecreamChest"
+    },
+    "End Table": {
+        "model_path": "phase_3.5/models/modules/ending_table"
+    },
+    "Small Table": {
+        "model_path": "phase_5.5/models/estate/table_radio",
+        "scale_multiplier": 30
+    },
+    "Coffee Table": {
+        "model_path": "phase_5.5/models/estate/coffeetableSq"
+    },
+    "Snorkeler's Table": {
+        "model_path": "phase_5.5/models/estate/UWtable"
+    },
+    "Cookie Table": {
+        "model_path": "phase_5.5/models/estate/cookieTableA"
+    },
+    "Bedroom Table": {
+        "model_path": "phase_5.5/models/estate/TABLE_Bedroom_Desat"
+    },
+    "Radio 1": {
+        "model_path": "phase_5.5/models/estate/RADIO_A",
+        "scale_multiplier": 20
+    },
+    "Radio 2": {
+        "model_path": "phase_5.5/models/estate/RADIO_B",
+        "scale_multiplier": 20
+    },
+    "Radio 3": {
+        "model_path": "phase_5.5/models/estate/radio_c",
+        "scale_multiplier": 20
+    },
+    "Bug Room Television": {
+        "model_path": "phase_5.5/models/estate/bugRoomTV"
+    },
+    "Short Vase 1": {
+        "model_path": "phase_5.5/models/estate/vaseA_short"
+    },
+    "Short Vase 2": {
+        "model_path": "phase_5.5/models/estate/vaseB_short"
+    },
+    "Short Vase 3": {
+        "model_path": "phase_5.5/models/estate/vaseC_short"
+    },
+    "Short Vase 4": {
+        "model_path": "phase_5.5/models/estate/vaseD_short"
+    },
+    "Tall Vase 1": {
+        "model_path": "phase_5.5/models/estate/vaseA_tall"
+    },
+    "Tall Vase 2": {
+        "model_path": "phase_5.5/models/estate/vaseB_tall"
+    },
+    "Coral Vase": {
+        "model_path": "phase_5.5/models/estate/UWcoralVase"
+    },
+    "Shell Vase": {
+        "model_path": "phase_5.5/models/estate/UWshellVase"
+    },
+    "Rose Vase": {
+        "model_path": "phase_5.5/models/estate/tt_m_prp_int_roseVase_valentine"
+    },
+    "Rose Watercan": {
+        "model_path": "phase_5.5/models/estate/tt_m_prp_int_roseWatercan_valentine"
+    },
+    "Popcorn Cart": {
+        "model_path": "phase_5.5/models/estate/popcornCart"
+    },
+    "Ladybug": {
+        "model_path": "phase_5.5/models/estate/bugRoomLadyBug"
+    },
+    "Underwater Fountain": {
+        "model_path": "phase_5.5/models/estate/UWfountain"
+    },
+    "Washing Machine": {
+        "model_path": "phase_5.5/models/estate/UWOceanDryer"
+    },
+    "Skull Bowl": {
+        "model_path": "phase_5.5/models/estate/UWskullBowl"
+    },
+    "Lizard Bowl": {
+        "model_path": "phase_5.5/models/estate/UWlizardBowl"
+    },
+    "Swordfish Mount": {
+        "model_path": "phase_5.5/models/estate/UWswordFish"
+    },
+    "Hammerhead Mount": {
+        "model_path": "phase_5.5/models/estate/UWhammerhead"
+    },
+    "Hanging Horns": {
+        "model_path": "phase_5.5/models/estate/West_hangingHorns"
+    },
+    "Simple Sombrero": {
+        "model_path": "phase_5.5/models/estate/West_Sombrero"
+    },
+    "Fancy Sombrero": {
+        "model_path": "phase_5.5/models/estate/West_fancySombrero"
+    },
+    "Bison Portrait": {
+        "model_path": "phase_5.5/models/estate/West_bisonPortrait"
+    },
+    "Candy Swing Set": {
+        "model_path": "phase_5.5/models/estate/candySwingSet"
+    },
+    "Cake Slide": {
+        "model_path": "phase_5.5/models/estate/cakeSlide"
+    },
+    "Banana Split Tub": {
+        "model_path": "phase_5.5/models/estate/BanannaSplitShower"
+    },
+    "Boy Trunk": {
+        "model_path": "phase_5.5/models/estate/tt_m_ara_est_accessoryTrunkBoy"
+    },
+    "Girl Trunk": {
+        "model_path": "phase_5.5/models/estate/tt_m_ara_est_accessoryTrunkGirl"
+    },
+    "Short Pumpkin": {
+        "model_path": "phase_14.5/models/char/pumpkin-short-mod"
+    },
+    "Tall Pumpkin": {
+        "model_path": "phase_14.5/models/char/pumpkin-tall-mod"
+    },
+    "Green Bed": {
+        "model_path": "phase_5.5/models/estate/tt_m_prp_int_greener_bed",
+        "scale_multiplier": 1.5
+    },
+    "Green Bag": {
+        "model_path": "phase_5.5/models/estate/tt_m_prp_int_greener_bag"
+    },
+    "Green Armchair": {
+        "model_path": "phase_5.5/models/estate/tt_m_prp_int_greener_chair",
+        "scale_multiplier": 2
+    },
+    "Green Couch": {
+        "model_path": "phase_5.5/models/estate/tt_m_prp_int_greener_couch",
+        "scale_multiplier": 2
+    },
+    "Green Table": {
+        "model_path": "phase_5.5/models/estate/tt_m_prp_int_greener_table",
+        "scale_multiplier": 2
+    },
+    "Green Rug": {
+        "model_path": "phase_5.5/models/estate/tt_m_prp_int_greener_rug"
+    },
+    "Cog Doors": {
+        "model_path": "phase_14/models/props/bathroom-doors"
+    },
+    "Cog-in-a-Can": {
+        "model_path": "phase_14/models/char/cogcan-mod"
+    },
+    "Moneybin": {
+        "model_path": "phase_14/models/modules/moneybin"
+    },
+    "Gyro's Lab": {
+        "model_path": "phase_14/models/modules/gyros_lab_exterior",
+        "scale_multiplier": 0.25
+    },
+    "Merry Go Round": {
+        "model_path": "phase_13/models/parties/partyMerryGoRound",
+        "scale_multiplier": 0.25
+    },
+    "The Sun": {
+        "model_path": "phase_4/models/props/sun.bam",
+        "scale_multiplier": 0.25
+    },
+    "The Moon": {
+        "model_path": "phase_5.5/models/props/moon"
+    },
+    "Sellbot Medallion": {
+        "model_path": "phase_3/models/gui/cog_icons",
+        "sub_node": "SalesIcon",
+        "scale_multiplier": 1.5
+    },
+    "Cashbot Medallion": {
+        "model_path": "phase_3/models/gui/cog_icons",
+        "sub_node": "MoneyIcon",
+        "scale_multiplier": 1.5
+    },
+    "Lawbot Medallion": {
+        "model_path": "phase_3/models/gui/cog_icons",
+        "sub_node": "LegalIcon",
+        "scale_multiplier": 1.5
+    },
+    "Bossbot Medallion": {
+        "model_path": "phase_3/models/gui/cog_icons",
+        "sub_node": "CorpIcon",
+        "scale_multiplier": 1.5
+    },
+    "Flunky Head": {
+        "model_path": "phase_3.5/models/char/suitC-heads",
+        "sub_node": "flunky"
+    },
+    "Flunky Glasses": {
+        "model_path": "phase_3.5/models/char/suitC-heads",
+        "sub_node": "glasses"
+    },
+    "Pencil Pusher Head": {
+        "model_path": "phase_4/models/char/suitB-heads",
+        "sub_node": "pencilpusher"
+    },
+    "Yesman / Mr. Hollywood Head": {
+        "model_path": "phase_4/models/char/suitA-heads",
+        "sub_node": "yesman"
+    },
+    "Micromanager Head": {
+        "model_path": "phase_3.5/models/char/suitC-heads",
+        "sub_node": "micromanager"
+    },
+    "Bean Counter / Downsizer Head": {
+        "model_path": "phase_4/models/char/suitB-heads",
+        "sub_node": "beancounter"
+    },
+    "Head Hunter Head": {
+        "model_path": "phase_4/models/char/suitA-heads",
+        "sub_node": "headhunter"
+    },
+    "Corporate Raider Head": {
+        "model_path": "phase_3.5/models/char/suitC-heads",
+        "sub_node": "flunky"
+    },
+    "The Big Cheese Head": {
+        "model_path": "phase_4/models/char/suitA-heads",
+        "sub_node": "bigcheese"
+    },
+    "Bottom Feeder Head": {
+        "model_path": "phase_3.5/models/char/suitC-heads",
+        "sub_node": "tightwad"
+    },
+    "Bloodsucker Head": {
+        "model_path": "phase_4/models/char/suitB-heads",
+        "sub_node": "movershaker"
+    },
+    "Double Talker Head": {
+        "model_path": "phase_4/models/char/suitA-heads",
+        "sub_node": "twoface"
+    },
+    "Ambulance Chaser Head": {
+        "model_path": "phase_4/models/char/suitB-heads",
+        "sub_node": "ambulancechaser"
+    },
+    "Backstabber Head": {
+        "model_path": "phase_4/models/char/suitA-heads",
+        "sub_node": "backstabber"
+    },
+    "Spin Doctor Head": {
+        "model_path": "phase_4/models/char/suitB-heads",
+        "sub_node": "telemarketer"
+    },
+    "Legal Eagle Head": {
+        "model_path": "phase_4/models/char/suitA-heads",
+        "sub_node": "legaleagle"
+    },
+    "Big Wig Head": {
+        "model_path": "phase_4/models/char/suitA-heads",
+        "sub_node": "bigwig"
+    },
+    "Short Change / Cold Caller Head": {
+        "model_path": "phase_3.5/models/char/suitC-heads",
+        "sub_node": "coldcaller"
+    },
+    "Penny Pincher Head": {
+        "model_path": "phase_4/models/char/suitA-heads",
+        "sub_node": "pennypincher"
+    },
+    "Tightwad Head": {
+        "model_path": "phase_3.5/models/char/suitC-heads",
+        "sub_node": "tightwad"
+    },
+    "Number Cruncher Head": {
+        "model_path": "phase_4/models/char/suitA-heads",
+        "sub_node": "numbercruncher"
+    },
+    "Money Bags Head": {
+        "model_path": "phase_3.5/models/char/suitC-heads",
+        "sub_node": "moneybags"
+    },
+    "Loan Shark Head": {
+        "model_path": "phase_4/models/char/suitB-heads",
+        "sub_node": "loanshark"
+    },
+    "Robber Baron Head": {
+        "model_path": "phase_4/models/char/suitA-heads",
+        "sub_node": "yesman"
+    },
+    "Telemarketer Head": {
+        "model_path": "phase_4/models/char/suitB-heads",
+        "sub_node": "telemarketer"
+    },
+    "Name Dropper Head": {
+        "model_path": "phase_4/models/char/suitA-heads",
+        "sub_node": "numbercruncher"
+    },
+    "Glad Hander Head": {
+        "model_path": "phase_3.5/models/char/suitC-heads",
+        "sub_node": "gladhander"
+    },
+    "Mover & Shaker Head": {
+        "model_path": "phase_4/models/char/suitB-heads",
+        "sub_node": "movershaker"
+    },
+    "Two Face Head": {
+        "model_path": "phase_4/models/char/suitA-heads",
+        "sub_node": "twoface"
+    },
+    "Mingler Head": {
+        "model_path": "phase_4/models/char/suitA-heads",
+        "sub_node": "twoface"
+    },
+    "Grey Hat Head": {
+        "model_path": "phase_14.5/models/char/grey-hat"
+    },
+    "Ducktub Head": {
+        "model_path": "phase_14.5/models/char/ttoff_m_ene_head_duckTub"
+    },
+    "Sysadmin Head": {
+        "model_path": "phase_4/models/char/suitA-heads",
+        "sub_node": "pennypincher"
+    },
+    "Mr. Hollywood": {
+        "model_path": "phase_14.5/models/props/hollywood"
+    },
+    "Big Horn": {
+        "model_path": "phase_14.5/models/props/horn",
+        "scale_multiplier": 0.5
+    },
+    "Halloween Sky": {
+        "model_path": "phase_14.5/models/props/halloween-skybox"
+    },
+    "Winter Sky": {
+        "model_path": "phase_3.5/models/props/BR_sky"
+    },
+    "Melodyland Sky": {
+        "model_path": "phase_6/models/props/MM_sky"
+    },
+    "Dreamland Sky": {
+        "model_path": "phase_8/models/props/DL_sky"
+    },
+    "Clear Sky": {
+        "model_path": "phase_3.5/models/props/TT_sky"
+    },
+    "Sellbot Sky": {
+        "model_path": "phase_9/models/cogHQ/cog_sky"
+    },
+    "Old Sellbot Sky": {
+        "model_path": "phase_9/models/cogHQ/old_sky"
+    },
+    "Bossbot Sky": {
+        "model_path": "phase_12/models/bossbotHQ/BossTestSkyBox"
+    },
+    "Holiday Sky": {
+        "model_path": "phase_14.5/models/props/HD_sky"
+    },
+    "Toon House 1": {
+        "model_path": "phase_5.5/models/estate/houseA",
+        "scale_multiplier": 0.75
+    },
+    "Tiki House": {
+        "model_path": "phase_5.5/models/estate/tt_m_ara_est_house_tiki",
+        "scale_multiplier": 0.75
+    },
+    "Tepee House": {
+        "model_path": "phase_5.5/models/estate/tt_m_ara_est_house_tepee",
+        "scale_multiplier": 0.75
+    },
+    "Castle House": {
+        "model_path": "phase_5.5/models/estate/tt_m_ara_est_house_castle",
+        "scale_multiplier": 0.75
+    },
+    "Cupcake House": {
+        "model_path": "phase_5.5/models/estate/tt_m_ara_est_house_cupcake",
+        "scale_multiplier": 0.75
+    },
+    "Toon House 2": {
+        "model_path": "phase_5.5/models/estate/houseB",
+        "scale_multiplier": 0.75
+    },
+    "House Mailbox": {
+        "model_path": "phase_5.5/models/estate/mailboxHouse"
+    },
+    "Signpost": {
+        "model_path": "phase_14.5/models/props/prop_gardensign_editable"
+    },
+    "Telephone": {
+        "model_path": "phase_5.5/models/estate/prop_phone-mod"
+    },
+    "Switchboard": {
+        "model_path": "phase_5.5/models/estate/switchboard"
+    },
+    "Sled": {
+        "model_path": "phase_5.5/models/estate/tt_m_ara_int_sled"
+    },
+    "Victory Cannons": {
+        "model_path": "phase_13/models/parties/tt_m_ara_pty_cannonVictory_model"
+    },
+    "Doodle Balloon": {
+        "model_path": "phase_13/models/parties/tt_m_ara_pty_cogDoodleVictory",
+        "scale_multiplier": 0.5
+    },
+    "Ice Cream Balloon": {
+        "model_path": "phase_13/models/parties/tt_m_ara_pty_cogIceCreamVictory",
+        "scale_multiplier": 0.5
+    },
+    "Donald's Boat": {
+        "model_path": "phase_6/models/modules/donalds_boat",
+        "scale_multiplier": 0.25
+    },
+    "Target": {
+        "model_path": "phase_5.5/models/estate/target"
+    },
+    "Track": {
+        "model_path": "phase_5/models/props/traintrack2"
+    },
+    "Button": {
+        "model_path": "phase_3.5/models/props/button"
+    },
+    "Megaphone": {
+        "model_path": "phase_5/models/props/megaphone"
+    },
+    "Lipstick": {
+        "model_path": "phase_5/models/props/lipstick",
+        "scale_multiplier": 2
+    },
+    "Cane": {
+        "model_path": "phase_5/models/props/cane",
+        "scale_multiplier": 1.5
+    },
+    "Cane Hat": {
+        "model_path": "phase_5/models/props/hat"
+    },
+    "Ladder": {
+        "model_path": "phase_5/models/props/ladder2"
+    },
+    "Banana Peel": {
+        "model_path": "phase_5/models/props/banana-peel-mod"
+    },
+    "Trapdoor": {
+        "model_path": "phase_5/models/props/trapdoor"
+    },
+    "Quicksand": {
+        "model_path": "phase_5/models/props/quicksand"
+    },
+    "TNT": {
+        "model_path": "phase_5/models/props/tnt-mod"
+    },
+    "Toon Train": {
+        "model_path": "phase_5/models/props/train",
+        "scale_multiplier": 0.5
+    },
+    "Magnet": {
+        "model_path": "phase_5/models/props/magnet"
+    },
+    "Presentation": {
+        "model_path": "phase_5/models/props/av_screen"
+    },
+    "Bike Horn": {
+        "model_path": "phase_5/models/props/bikehorn",
+        "scale_multiplier": 0.5
+    },
+    "Whistle": {
+        "model_path": "phase_5/models/props/whistle",
+        "scale_multiplier": 0.2
+    },
+    "Bugle": {
+        "model_path": "phase_5/models/props/bugle",
+        "scale_multiplier": 0.5
+    },
+    "Aoogah": {
+        "model_path": "phase_5/models/props/aoogah",
+        "scale_multiplier": 0.5
+    },
+    "Elephant Trunk": {
+        "model_path": "phase_5/models/props/elephant",
+        "scale_multiplier": 0.5
+    },
+    "Foghorn": {
+        "model_path": "phase_5/models/props/fog_horn",
+        "scale_multiplier": 0.25
+    },
+    "Opera Singer": {
+        "model_path": "phase_5/models/props/singing"
+    },
+    "Pie": {
+        "model_path": "phase_3.5/models/props/tart"
+    },
+    "Fruit Pie Slice": {
+        "model_path": "phase_5/models/props/fruit-pie-slice",
+        "scale_multiplier": 1.5
+    },
+    "Cream Pie Slice": {
+        "model_path": "phase_5/models/props/cream-pie-slice",
+        "scale_multiplier": 1.5
+    },
+    "Birthday Cake": {
+        "model_path": "phase_5/models/props/birthday-cake-mod"
+    },
+    "Wedding Cake": {
+        "model_path": "phase_5/models/props/wedding_cake",
+        "scale_multiplier": 2
+    },
+    "Squirting Flower": {
+        "model_path": "phase_3.5/models/props/squirting-flower",
+        "scale_multiplier": 1.5
+    },
+    "Glass of Water": {
+        "model_path": "phase_5/models/props/glass-mod",
+        "scale_multiplier": 2
+    },
+    "Water Gun": {
+        "model_path": "phase_4/models/props/water-gun"
+    },
+    "Seltzer Bottle": {
+        "model_path": "phase_3.5/models/props/bottle"
+    },
+    "Storm Cloud": {
+        "model_path": "phase_4/models/props/stormcloud-mod",
+        "scale_multiplier": 2.5
+    },
+    "Geyser": {
+        "model_path": "phase_5/models/props/geyser"
+    },
+    "Big Weight": {
+        "model_path": "phase_5/models/props/weight-mod",
+        "scale_multiplier": 0.7
+    },
+    "Safe": {
+        "model_path": "phase_5/models/props/safe-mod",
+        "scale_multiplier": 4.0
+    },
+    "Piano": {
+        "model_path": "phase_5/models/props/piano-mod",
+        "scale_multiplier": 2.0
+    },
+    "Toontanic": {
+        "model_path": "phase_5/models/props/ship",
+        "scale_multiplier": 0.5
+    },
+    "Baseball": {
+        "model_path": "phase_5/models/props/baseball",
+        "scale_multiplier": 5.0
+    },
+    "Bird": {
+        "model_path": "phase_5/models/props/bird",
+        "scale_multiplier": 5.0
+    },
+    "Dagger": {
+        "model_path": "phase_5/models/props/dagger"
+    },
+    "Empty Can of Tomatoes": {
+        "model_path": "phase_5/models/props/can",
+        "scale_multiplier": 6.0
+    },
+    "Evil Eye": {
+        "model_path": "phase_5/models/props/evil-eye",
+        "scale_multiplier": 10.0
+    },
+    "Golf Ball": {
+        "model_path": "phase_5/models/props/golf-ball"
+    },
+    "Golf Club": {
+        "model_path": "phase_5/models/props/golf-club"
+    },
+    "Market Crash Newspaper": {
+        "model_path": "phase_5/models/props/newspaper",
+        "scale_multiplier": 4.0
+    },
+    "Pen": {
+        "model_path": "phase_5/models/props/pen"
+    },
+    "Pencil": {
+        "model_path": "phase_5/models/props/pencil"
+    },
+    "Phone": {
+        "model_path": "phase_3.5/models/props/phone"
+    },
+    "Receiver": {
+        "model_path": "phase_3.5/models/props/receiver"
+    },
+    "Pink Slip": {
+        "model_path": "phase_5/models/props/pink-slip",
+        "scale_multiplier": 10.0
+    },
+    "Razzle Dazzle": {
+        "model_path": "phase_5/models/props/smile-mod",
+        "scale_multiplier": 2.0
+    },
+    "Red Tape": {
+        "model_path": "phase_5/models/props/redtape"
+    },
+    "Red Tape Tube": {
+        "model_path": "phase_5/models/props/redtape-tube"
+    },
+    "Roll-O-Dex": {
+        "model_path": "phase_5/models/props/roll-o-dex"
+    },
+    "Teeth": {
+        "model_path": "phase_5/models/props/teeth-mod",
+        "scale_multiplier": 4.0
+    },
+    "Watercooler": {
+        "model_path": "phase_5/models/props/watercooler"
+    },
+    "Flowery Gazebo": {
+        "model_path": "phase_14.5/models/modules/gazebo_DG"
+    },
+    "Hill": {
+        "model_path": "phase_4/models/minigames/cannon_hill",
+        "scale_multiplier": 0.5
+    },
+    "Elevator": {
+        "model_path": "phase_4/models/modules/elevator"
+    },
+    "Bossbot Building": {
+        "model_path": "phase_4/models/modules/suit_landmark_corp"
+    },
+    "Bossbot Building 2": {
+        "model_path": "phase_14.5/models/modules/suit_landmark_tie",
+        "scale_multiplier": 0.5
+    },
+    "Bossbot Building 3": {
+        "model_path": "phase_14.5/models/modules/suit_landmark_rec_tie",
+        "scale_multiplier": 0.5
+    },
+    "Lawbot Building": {
+        "model_path": "phase_4/models/modules/suit_landmark_legal"
+    },
+    "Lawbot Building 2": {
+        "model_path": "phase_14.5/models/modules/suit_landmark_big_legal"
+    },
+    "Cashbot Building": {
+        "model_path": "phase_4/models/modules/suit_landmark_money"
+    },
+    "Cashbot Building 2": {
+        "model_path": "phase_5/models/modules/suit_landmark_money2"
+    },
+    "Sellbot Building": {
+        "model_path": "phase_4/models/modules/suit_landmark_sales"
+    },
+    "Sellbot Field Office": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_cbe_fieldOfficeMoverShaker"
+    },
+    "Lawbot Field Office": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_cbe_fieldOfficeLegalEagle"
+    },
+    "Field Office Elevator": {
+        "model_path": "phase_5/models/cogdominium/tt_m_ara_csa_elevatorB"
+    },
+    "Mint Elevator": {
+        "model_path": "phase_10/models/cogHQ/mintElevator",
+        "scale_multiplier": 0.75
+    },
+    "DA Office Elevator": {
+        "model_path": "phase_11/models/lawbotHQ/LB_ElevatorScaled",
+        "scale_multiplier": 0.75
+    },
+    "Toon Tunnel": {
+        "model_path": "phase_4/models/modules/safe_zone_tunnel_TT"
+    },
+    "Toon Tunnel 2": {
+        "model_path": "phase_5/models/modules/neighborhood_tunnel_TT"
+    },
+    "Goofy Speedway Tunnel": {
+        "model_path": "phase_4/models/modules/Speedway_Tunnel"
+    },
+    "Outdoor Zone Tunnel": {
+        "model_path": "phase_6/models/golf/outdoor_zone_entrance"
+    },
+    "Chip 'N Dale's Golf Tunnel": {
+        "model_path": "phase_6/models/golf/chip_dale_enterance"
+    },
+    "Chip 'N Dale's Golf Tunnel (No sign)": {
+        "model_path": "phase_6/models/golf/chip_dale_NoSign_enterance"
+    },
+    "Cog Tunnel": {
+        "model_path": "phase_6/models/cogHQ/Cog_Tunnel"
+    },
+    "Bossbot Tunnel": {
+        "model_path": "phase_6/models/golf/Golfzone_To_Bossbot_Tunnel"
+    },
+    "Flute Statue": {
+        "model_path": "phase_5.5/models/estate/garden_mickey_flute",
+        "scale_multiplier": 0.1
+    },
+    "Pedestal": {
+        "model_path": "phase_5.5/models/estate/garden_pedestal",
+        "scale_multiplier": 0.1
+    },
+    "Short Pedestal": {
+        "model_path": "phase_14.5/models/props/tt-activity-statue-pedestal",
+        "scale_multiplier": 0.25
+    },
+    "Minnie Statue": {
+        "model_path": "phase_5.5/models/estate/garden_minnie",
+        "scale_multiplier": 0.1
+    },
+    "Roman Entrance": {
+        "model_path": "phase_5/models/props/roman_entrance"
+    },
+    "Toontown Central Trolley Station": {
+        "model_path": "phase_4/models/modules/trolley_station_TT"
+    },
+    "Donald's Dock Trolley Station": {
+        "model_path": "phase_6/models/modules/trolley_station_DD"
+    },
+    "Minnie's Melodyland Trolley Station": {
+        "model_path": "phase_6/models/modules/trolley_station_MM"
+    },
+    "Daisy Gardens Trolley Station": {
+        "model_path": "phase_8/models/modules/trolley_station_DG"
+    },
+    "The Brrrgh Trolley Station": {
+        "model_path": "phase_8/models/modules/trolley_station_BR"
+    },
+    "Donald's Dreamland Trolley Station": {
+        "model_path": "phase_8/models/modules/trolley_station_DL"
+    },
+    "Facade": {
+        "model_path": "phase_3.5/models/modules/facade_e"
+    },
+    "Toon Golf Cart": {
+        "model_path": "phase_6/models/golf/golf_cart3"
+    },
+    "Acorn Acres Bridge": {
+        "model_path": "phase_6/models/golf/golf_bridge"
+    },
+    "Gear": {
+        "model_path": "phase_9/models/char/gearProp",
+        "scale_multiplier": 0.1
+    },
+    "Stairs": {
+        "model_path": "phase_5/models/props/stairs"
+    },
+    "Cashbot Highrise 1": {
+        "model_path": "phase_10/models/cogHQ/CashbotBuildings",
+        "sub_node": "BLD1",
+        "scale_multiplier": 0.1
+    },
+    "Cashbot Highrise 2": {
+        "model_path": "phase_10/models/cogHQ/CashbotBuildings",
+        "sub_node": "BLD5",
+        "scale_multiplier": 0.1
+    },
+    "Cashbot Highrise 3": {
+        "model_path": "phase_10/models/cogHQ/CashbotBuildings",
+        "sub_node": "BLD19",
+        "scale_multiplier": 0.1
+    },
+    "Cashbot Highrise 4": {
+        "model_path": "phase_10/models/cogHQ/CashbotBuildings",
+        "sub_node": "BLD16",
+        "scale_multiplier": 0.1
+    },
+    "Cashbot Highrise 5": {
+        "model_path": "phase_10/models/cogHQ/CashbotBuildings",
+        "sub_node": "BLD8",
+        "scale_multiplier": 0.1
+    },
+    "Cashbot Highrise 6": {
+        "model_path": "phase_10/models/cogHQ/CashbotBuildings",
+        "sub_node": "BLD9",
+        "scale_multiplier": 0.1
+    },
+    "Cashbot Highrise 7": {
+        "model_path": "phase_10/models/cogHQ/CashbotBuildings",
+        "sub_node": "BLD4",
+        "scale_multiplier": 0.1
+    },
+    "Cashbot Highrise 8": {
+        "model_path": "phase_10/models/cogHQ/CashbotBuildings",
+        "sub_node": "BLD10",
+        "scale_multiplier": 0.1
+    },
+    "Cashbot Highrise 9": {
+        "model_path": "phase_10/models/cogHQ/CashbotBuildings",
+        "sub_node": "BLD17",
+        "scale_multiplier": 0.1
+    },
+    "Cashbot Highrise 10": {
+        "model_path": "phase_10/models/cogHQ/CashbotBuildings",
+        "sub_node": "BLD18",
+        "scale_multiplier": 0.1
+    },
+    "Cashbot Highrise 11": {
+        "model_path": "phase_10/models/cogHQ/CashbotBuildings",
+        "sub_node": "BLD13",
+        "scale_multiplier": 0.1
+    },
+    "Cashbot Highrise 12": {
+        "model_path": "phase_10/models/cogHQ/CashbotBuildings",
+        "sub_node": "BLD14",
+        "scale_multiplier": 0.1
+    },
+    "Cashbot Highrise 13": {
+        "model_path": "phase_10/models/cogHQ/CashbotBuildings",
+        "sub_node": "BLD15",
+        "scale_multiplier": 0.1
+    },
+    "Cashbot Highrise 14": {
+        "model_path": "phase_10/models/cogHQ/CashbotBuildings",
+        "sub_node": "BLD11",
+        "scale_multiplier": 0.1
+    },
+    "Cashbot Highrise 15": {
+        "model_path": "phase_10/models/cogHQ/CashbotBuildings",
+        "sub_node": "BLD12",
+        "scale_multiplier": 0.1
+    },
+    "Cashbot Highrise 16": {
+        "model_path": "phase_10/models/cogHQ/CashbotBuildings",
+        "sub_node": "BLD20",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 1": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD1",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 2": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD5",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 3": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD19",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 4": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD16",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 5": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD8",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 6": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD9",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 7": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD4",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 8": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD10",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 9": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD17",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 10": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD18",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 11": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD13",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 12": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD14",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 13": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD15",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 14": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD11",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 15": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD12",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 16": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD20",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 17": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD21",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 18": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD22",
+        "scale_multiplier": 0.1
+    },
+    "Lawbot Highrise 19": {
+        "model_path": "phase_11/models/lawbotHQ/LawbotBuildings",
+        "sub_node": "LB_BLD23",
+        "scale_multiplier": 0.1
+    },
+    "Cog Thief Tank": {
+        "model_path": "phase_4/models/minigames/cogthief_game_gagTank",
+        "scale_multiplier": 0.25
+    },
+    "Pointer": {
+        "model_path": "phase_4/models/minigames/bboard-pointer"
+    },
+    "Cactus 1": {
+        "model_path": "phase_4/models/minigames/slingshot_game_cacti",
+        "sub_node": "cactus_a"
+    },
+    "Cactus 2": {
+        "model_path": "phase_4/models/minigames/slingshot_game_cacti",
+        "sub_node": "cactus_b"
+    },
+    "Pier": {
+        "model_path": "phase_4/models/props/piers_tt"
+    },
+    "Ropes": {
+        "model_path": "phase_4/models/modules/tt_m_ara_int_ropes"
+    },
+    "Alpha Bush 1": {
+        "model_path": "phase_14.5/models/props/bush1",
+        "scale_multiplier": 0.5
+    },
+    "Alpha Bush 2": {
+        "model_path": "phase_14.5/models/props/bush2",
+        "scale_multiplier": 0.5
+    },
+    "Sellbot Tree": {
+        "model_path": "phase_14.5/models/props/tree_sellbot"
+    },
+    "Bossbot Tree": {
+        "model_path": "phase_14.5/models/props/ttrm_m_prp_bbhqTree"
+    },
+    "Holiday Sleigh": {
+        "model_path": "phase_14.5/models/props/sleigh"
+    },
+    "Cog A Statue": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_stonesuit_a"
+    },
+    "Cog C Statue": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_stonesuit_c"
+    },
+    "Hydraulic Machine": {
+        "model_path": "phase_14.5/models/props/hydraulic-machine"
+    },
+    "Cog Dominium (TT 2)": {
+        "model_path": "phase_14.5/models/modules/tt_m_ara_cbe_cogdoA",
+        "scale_multiplier": 1.4
+    },
+    "Toon Hall (TT 2)": {
+        "model_path": "phase_14.5/models/modules/tt_m_ara_ttc_toonHall",
+        "scale_multiplier": 1.4
+    },
+    "Power Building (TT 2)": {
+        "model_path": "phase_14.5/models/modules/t2_m_ara_ttp_powerBuilding",
+        "scale_multiplier": 1.4
+    },
+    "Lamp Post (TT 2)": {
+        "model_path": "phase_14.5/models/props/t2_m_prp_ext_streetLamp",
+        "scale_multiplier": 1.6
+    },
+    "Hypno Owl": {
+        "model_path": "phase_14.5/models/props/tt_m_ara_ddl_hypnoOwl"
+    },
+    "Barricade": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_barricade",
+        "scale_multiplier": 4
+    },
+    "Stop Sign": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_stopsign",
+        "scale_multiplier": 0.7
+    },
+    "Wooden Pool": {
+        "model_path": "phase_14.5/models/char/ttoff_m_ene_head_duckTub",
+        "hide_nodes": "*duck_heads_1000:muzzle_long"
+    },
+    "Hot Tub": {
+        "model_path": "phase_5.5/models/estate/ttoff_m_prp_int_hottub"
+    },
+    "Fire": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_effect_fire"
+    },
+    "Cube Collision Generator": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_collCube"
+    },
+    "Occluder Generator": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_occluder"
+    },
+    "Texture Plane": {
+        "model_path": "phase_14.5/models/props/ttoff_m_propgen_texPlane"
+    }
+}
